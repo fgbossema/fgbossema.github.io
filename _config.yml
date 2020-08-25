@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Personal website of Francien Bossema
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Francien Bossema
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  bio: "I am currently a PhD student in the Computational Imaging group at CWI, Amsterdam on the Impact4Art project."
   email: laderast@ohsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: FrancienBossema
   linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: fgbos
+  orcid: 0000-0001-5668-5326 # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
