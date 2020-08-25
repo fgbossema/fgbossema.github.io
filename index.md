@@ -3,10 +3,11 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am a PhD student at CWI and Rijksmuseum in Amsterdam, The Netherlands. Next to mathematics I am interested in Science Communication. 
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Science Communication
+- Technical Art history
+- Computed Tomography
+- [GitHub Pages](http://fgbos.github.io)
