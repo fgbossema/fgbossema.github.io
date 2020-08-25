@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Francien Bossema
-  avatar: ![pasfoto](https://octodex.github.com/images/bio_photo.png) #bio-photo.jpg
+  avatar: bio-photo.jpg #![pasfoto](https://octodex.github.com/images/bio_photo.png) 
   bio: "I am currently a PhD student in the Computational Imaging group at CWI, Amsterdam on the Impact4Art project."
   email: bossema@cwi.nl
   # Do not include the @ symbol in your Twitter username
