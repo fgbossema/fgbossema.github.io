@@ -2,18 +2,16 @@
 layout: resume
 ---
 ## Currently
-
-Current Position Description
+`2018-`
+PhD student, Centrum Wiskunde & Informatica, Amsterdam
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2015-2018`
+__Universiteit Leiden__
+MSc. Mathematics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+
 
 ## Awards
 
