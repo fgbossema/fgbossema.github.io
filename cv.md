@@ -11,58 +11,24 @@ PhD student, Centrum Wiskunde & Informatica, Amsterdam
 __Universiteit Leiden__
 MSc. Mathematics
 
-
-
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2020`
+Student travel award, SIAM IS20, Toronto Canada (virtual conference due to Covid-19)
 
 ## Publications
-
+See [onlinelist](https://orcid.org/0000-0001-5668-5326) for a list of publications. 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Newspaper
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+`2017`
+See [volkskrant](https://www.volkskrant.nl/auteur/francien-bossema) for the articles written in the Dutch newspaper De Volkskrant. 
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2020 -->
 
 
