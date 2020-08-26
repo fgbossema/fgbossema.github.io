@@ -17,6 +17,8 @@ MSc. Mathematics
 Student travel award, SIAM IS20, Toronto Canada (virtual conference due to Covid-19)
 
 ## Publications
+
+### Journals
 Click [here](https://orcid.org/0000-0001-5668-5326) for a list of publications. 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
