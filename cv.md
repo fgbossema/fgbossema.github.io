@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: CV
+title: Curriculum Vitae
 ---
 ## Currently
 `2018-`
