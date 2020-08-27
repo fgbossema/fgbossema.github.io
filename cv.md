@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 `2018-`
-__Centrum Wiskunde & Informatica__   
+__Centrum Wiskunde & Informatica__ \ 
 PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
 
 ## Education
@@ -14,31 +14,31 @@ MSc. Mathematics
 Additional specialisation: Science Communication and Society
 
 `2011-2015`
-__Vrije Universiteit Amsterdam__
+__Vrije Universiteit Amsterdam__ \
 BSc. Mathematics & BSc. Physics and Astronomy
 
 `2013`
-__University of Greenwich, London__
+__University of Greenwich, London__ \
 Minor in Humanities
 
 ## Internships
 
 `2017`
-__De Volkskrant, Amsterdam__
+__De Volkskrant, Amsterdam__ \
 Science Journalism internship
 
 `2017`
-__Instituto de Astrofísica e Ciências do Espaço, Lisbon__
+__Instituto de Astrofísica e Ciências do Espaço, Lisbon__ \
 Practical Science Communication and Public Events internship
 
 `2017`
-__Universiteit Leiden, deparment of Science communication and Society__
+__Universiteit Leiden, deparment of Science communication and Society__ \
 Research internship
 
 ## Work experience
 
 `2014-2016`
-__Vrije Universiteit Amsterdam__
+__Vrije Universiteit Amsterdam__ \
 Teaching assistent
 
 
