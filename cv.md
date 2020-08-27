@@ -10,6 +10,37 @@ PhD student, Centrum Wiskunde & Informatica, Amsterdam
 `2015-2018`
 __Universiteit Leiden__
 MSc. Mathematics
+Additional specialisation: Science Communication and Society
+
+`2011-2015`
+__Vrije Universiteit Amsterdam__
+BSc. Mathematics & BSc. Physics and Astronomy
+
+`2013`
+__University of Greenwich, London__
+Minor in Humanities
+
+## Internships
+
+`2017`
+__De Volkskrant, Amsterdam__
+Science Journalism internship
+
+`2017`
+__Instituto de Astrofísica e Ciências do Espaço, Lisbon__
+Practical Science Communication and Public Events internship
+
+`2017`
+__Universiteit Leiden, deparment of Science communication and Society__
+Research internship
+
+## Work experience
+
+`2014-2016`
+__Vrije Universiteit Amsterdam__
+Teaching assistent
+
+
 
 ## Awards
 
