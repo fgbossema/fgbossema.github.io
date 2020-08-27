@@ -3,7 +3,9 @@ layout: resume
 ---
 ## Currently
 `2018-`
-PhD student, Centrum Wiskunde & Informatica, Amsterdam
+__Centrum Wiskunde & Informatica__
+
+PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
 
 ## Education
 
