@@ -9,7 +9,7 @@ PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterd
 ## Education
 
 `2015-2018`
-__Universiteit Leiden__
+__Universiteit Leiden__ \
 MSc. Mathematics
 Additional specialisation: Science Communication and Society
 
