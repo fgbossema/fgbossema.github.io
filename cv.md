@@ -33,7 +33,7 @@ __Instituto de Astrofísica e Ciências do Espaço, Lisbon__ \
 Practical Science Communication and Public Events internship
 
 `2017`
-__Universiteit Leiden, deparment of Science communication and Society__ \
+__Universiteit Leiden, department of Science communication and Society__ \
 Research internship
 
 ## Work experience
