@@ -70,7 +70,7 @@ Student travel award (afterwards converted to virtual conference due to Covid-19
 F.G. Bossema, P. Burger, L. Bratton, A. Challenger, R.C. Adams, P. Sumner, J. Schat, M.E. Numans, I. Smeets, Expert quotes and exaggeration in health news: A retrospective quantitative content analysis, Wellcome Open Res. (2019) https://doi.org/10.12688/wellcomeopenres.15147.2.
 
 `2018`
-J. Schat, F.G. Bossema, M.E. Numans, I. Smeets, P. Burger, Overdreven gezondheidsnieuws: Relatie tussen overdrijving in academische persberichtenen in nieuwsmedia, Ned. Tijdschr. Geneeskd. (2018) https://www.ntvg.nl/artikelen/overdreven-gezondheidsnieuws.
+J. Schat, F.G. Bossema, M.E. Numans, I. Smeets, P. Burger, Overdreven gezondheidsnieuws: Relatie tussen overdrijving in academische persberichten en in nieuwsmedia, Ned. Tijdschr. Geneeskd. (2018) https://www.ntvg.nl/artikelen/overdreven-gezondheidsnieuws.
 
 `2018`
 F. Bossema, J. Retrê, S. Pereira, P. Russo, ‘Your night out under the stars’: Reaching beyond native audiences, CAP journal (2018) https://www.capjournal.org/issues/24/24_40.php.
@@ -78,7 +78,7 @@ F. Bossema, J. Retrê, S. Pereira, P. Russo, ‘Your night out under the stars�
 See also [here](https://orcid.org/0000-0001-5668-5326) for a list of publications. 
 
 
-### Newspapers and magazines
+### Other publications
 
 `2017`
 Click [here](https://www.volkskrant.nl/auteur/francien-bossema) for the articles written in the Dutch newspaper De Volkskrant. 
