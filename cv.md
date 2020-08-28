@@ -59,7 +59,8 @@ Member of the 'exploration' committee, advising Vrije Universiteit Amsterdam and
 ## Awards
 
 `2020`
-Student travel award, SIAM IS20, Toronto Canada (virtual conference due to Covid-19)
+__SIAM, Imaging Science 2020, Toronto__ \
+Student travel award (afterwards converted to virtual conference due to Covid-19)
 
 ## Publications
 
