@@ -42,7 +42,19 @@ Research internship
 __Vrije Universiteit Amsterdam__ \
 Teaching assistent
 
+## Committees and other activities 
 
+`2016-2017`
+__VU University Choir__ \
+Chair of the board
+
+`2014-2015`
+__Vrije Universiteit Amsterdam__ \
+Student member of the Programme Committee for the Bachelor programme of Mathematics
+
+`2014`
+__Vrije Universiteit Amsterdam__ \
+Member of the 'exploration' committee, advising Vrije Universiteit Amsterdam and University of Amsterdam on the possible merging of the Mathematics bachelor studies of the two universities.  
 
 ## Awards
 
