@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Personal website of Francien Bossema (under construction)
+title: Personal website of Francien Bossema
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -13,7 +13,7 @@ owner:
   # Do not include the @ symbol in your Twitter username
   twitter: FrancienBossema
   linkedin: francien-bossema-a587b012a #username
-  github: fgbos
+  #github: fgbos
   orcid: 0000-0001-5668-5326 # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
