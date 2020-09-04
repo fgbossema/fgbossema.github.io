@@ -67,7 +67,7 @@ Student travel award (afterwards converted to virtual conference due to Covid-19
 ### Journals
 
 `2019`
-F.G. Bossema, P. Burger, L. Bratton, A. Challenger, R.C. Adams, P. Sumner, J. Schat, M.E. Numans, I. Smeets, Expert quotes and exaggeration in health news: A retrospective quantitative content analysis, Wellcome Open Res. (2019) https://doi.org/10.12688/wellcomeopenres.15147.2.
+F.G. Bossema, P. Burger, L. Bratton, A. Challenger, R.C. Adams, P. Sumner, J. Schat, M.E. Numans, I. Smeets, Expert quotes and exaggeration in health news: A retrospective quantitative content analysis, Wellcome Open Res. (2019) [https://doi.org/10.12688/wellcomeopenres.15147.2](https://doi.org/10.12688/wellcomeopenres.15147.2).
 
 `2018`
 J. Schat, F.G. Bossema, M.E. Numans, I. Smeets, P. Burger, Overdreven gezondheidsnieuws: Relatie tussen overdrijving in academische persberichten en in nieuwsmedia, Ned. Tijdschr. Geneeskd. (2018) https://www.ntvg.nl/artikelen/overdreven-gezondheidsnieuws.
@@ -84,7 +84,7 @@ See also [here](https://orcid.org/0000-0001-5668-5326) for a list of publication
 Click [here](https://www.volkskrant.nl/auteur/francien-bossema) for the articles written in the Dutch newspaper De Volkskrant. 
 
 `2017`
-Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, https://issuu.com/advalvas/docs/nr_15_22_maart_2017  
+Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/advalvas/docs/nr_15_22_maart_2017](https://issuu.com/advalvas/docs/nr_15_22_maart_2017) 
 
 
 <!-- ### Footer 
