@@ -86,6 +86,8 @@ Click [here](https://www.volkskrant.nl/auteur/francien-bossema) for the articles
 `2017`
 Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/advalvas/docs/nr_15_22_maart_2017](https://issuu.com/advalvas/docs/nr_15_22_maart_2017) 
 
+`2016`
+[Math trail Leiden](https://www.universiteitleiden.nl/en/news/2017/01/math-trail-leiden)
 
 <!-- ### Footer 
 
