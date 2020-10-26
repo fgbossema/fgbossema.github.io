@@ -34,6 +34,7 @@ Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/
 
 `2020'
 [Historisch bewijs, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs/04-03-2020/AT_2127977)
+
 [Historisch bewijs extra, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs-extra/04-03-2020/WO_AT_15997049)
 
 <!-- ### Footer 
