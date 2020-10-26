@@ -15,4 +15,5 @@ At the moment, I am a PhD student on the [Impact4Art](https://www.nicas-research
 ## 1 minute PhD project video
 
 {% include googleDrivePlayer.html id=page.driveId %}
+Image: [Holy woman with lantern](https://www.rijksmuseum.nl/nl/collectie/BK-NM-9253), Rijksmuseum collection inventory number BK-NM-9253
 
