@@ -16,6 +16,9 @@ F. Bossema, J. Retrê, S. Pereira, P. Russo, ‘Your night out under the stars�
 
 See also [here](https://orcid.org/0000-0001-5668-5326) for a list of publications. 
 
+## Data 
+`2019`
+CT scanning dataset of [Holy woman with lantern](https://www.rijksmuseum.nl/nl/collectie/BK-NM-9253), see [Zenodo](https://zenodo.org/record/3747192#.X5bWcYhKg2w).
 
 ## Journalistic
 
