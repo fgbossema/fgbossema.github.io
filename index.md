@@ -11,7 +11,7 @@ At the moment, I am a PhD student on the [Impact4Art](https://www.nicas-research
 - Science Communication
 - Technical Art history
 
-# 1 minute PhD project video
+## 1 minute PhD project video
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
