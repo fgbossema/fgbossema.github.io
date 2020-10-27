@@ -31,7 +31,10 @@ Click [here](https://www.volkskrant.nl/auteur/francien-bossema) for the articles
 Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/advalvas/docs/nr_15_22_maart_2017](https://issuu.com/advalvas/docs/nr_15_22_maart_2017) 
 
 
-## Other projects 
+## Other
+`2020`
+[Open letter Europen Women in Mathematics Society on the effect of the COVID-19 pandemic on untenured and female mathematicians](https://www.europeanwomeninmaths.org/ewm-open-letter-on-the-covid-19-pandemic/)
+
 `2016`
 [Math trail Leiden](https://www.universiteitleiden.nl/en/news/2017/01/math-trail-leiden)
 
