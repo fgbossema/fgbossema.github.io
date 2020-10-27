@@ -18,7 +18,9 @@ See also [here](https://orcid.org/0000-0001-5668-5326) for a list of publication
 
 ## Data 
 `2019`
-CT scanning dataset of [Holy woman with lantern](https://www.rijksmuseum.nl/nl/collectie/BK-NM-9253), see [Zenodo](https://zenodo.org/record/3747192#.X5bWcYhKg2w).
+A five-tile tomographic micro-CT dataset of the oak sculpture [Holy woman with lantern](https://www.rijksmuseum.nl/nl/collectie/BK-NM-9253), see [Zenodo](https://zenodo.org/record/3747192#.X5bWcYhKg2w).
+
+Three tomographic CT datasets of a woven fabric, see [Zenodo](https://zenodo.org/record/3741311#.X5f0-IhKg2w).
 
 ## Journalistic
 
@@ -35,7 +37,7 @@ Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/
 
 ## Work from other authors featuring my projects
 
-`2020'
+`2020`
 [Historisch bewijs, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs/04-03-2020/AT_2127977)
 
 [Historisch bewijs extra, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs-extra/04-03-2020/WO_AT_15997049)
