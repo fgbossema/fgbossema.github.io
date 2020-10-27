@@ -12,7 +12,7 @@ title: Publications
 [J. Schat, F.G. Bossema, M.E. Numans, I. Smeets, P. Burger, Overdreven gezondheidsnieuws: Relatie tussen overdrijving in academische persberichten en in nieuwsmedia, Ned. Tijdschr. Geneeskd. (2018)](https://www.ntvg.nl/artikelen/overdreven-gezondheidsnieuws).
 
 `2018`
-[F. Bossema, J. Retrê, S. Pereira, P. Russo, ‘Your night out under the stars’: Reaching beyond native audiences, CAP journal (2018)] (https://www.capjournal.org/issues/24/24_40.php).
+[F. Bossema, J. Retrê, S. Pereira, P. Russo, ‘Your night out under the stars’: Reaching beyond native audiences, CAP journal (2018)](https://www.capjournal.org/issues/24/24_40.php).
 
 See also [Orcid](https://orcid.org/0000-0001-5668-5326) for a list of publications. 
 
