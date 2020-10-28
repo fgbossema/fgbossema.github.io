@@ -38,7 +38,7 @@ Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/
 `2016`
 [Math trail Leiden](https://www.universiteitleiden.nl/en/news/2017/01/math-trail-leiden)
 
-## Work from other authors featuring my projects
+## Works by other authors
 
 `2020`
 [Historisch bewijs, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs/04-03-2020/AT_2127977)
