@@ -56,7 +56,7 @@ Student member of the Programme Committee for the Bachelor programme of Mathemat
 __Vrije Universiteit Amsterdam__ \
 Member of the 'exploration' committee, advising Vrije Universiteit Amsterdam and University of Amsterdam on the possible merging of the Mathematics bachelor studies of the two universities.  
 
-## Awards
+## Awards and grants
 
 `2020`
 __SIAM, Imaging Science 2020, Toronto__ \
