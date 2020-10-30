@@ -38,6 +38,9 @@ Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/
 `2016`
 [Math trail Leiden](https://www.universiteitleiden.nl/en/news/2017/01/math-trail-leiden)
 
+`2011`
+Profielwerkstuk Vossius Gymnasium ['Vrouwen in de Wiskunde'](https://cdn.atria.nl/epublications/IAV_B00104502.pdf) (high school last year paper, in Dutch) 
+
 ## Works by other authors
 
 `2020`
