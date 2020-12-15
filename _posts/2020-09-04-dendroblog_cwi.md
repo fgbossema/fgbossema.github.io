@@ -17,12 +17,12 @@ One of these collaborations is with Marta Domínguez-Delmás (University of Amst
 In CT scanning, the X-rays pass through the object and are absorbed depending on the thickness and density of the material. A detector registers the intensity of the X-rays after they passed through the object, creating a ‘shadow’ image on which internal features are visible. In order to know the exact location and shape of these features, images from all sides are combined to create a 3D representation. The object can then be ‘cut’ virtually, allowing the inspection of the interior. This adds a new dimension to the investigation of works of art, facilitating (virtual) access to all parts of the objects being investigated and providing new perspectives. Being able to look through these objects reveals a wealth of useful information that would otherwise have remained inaccessible. Together with Marta, we successfully scanned and dated two wooden art objects. The scanning was executed at CWI’s state-of-the-art FleX-ray Lab. 
 
 The first object is a beautiful oak sculpture of a Holy woman with lantern. Most rings were to be found in between the base of the lantern and the edge of the garment of the woman. In Figure 1 the object, an X-ray image and a detail of a slice of the 3D image are shown. The results will be presented in a scientific paper.
-![The sculpture.](https://fgbossema.github.com/images/woodblog_1.jpg)
-![An X-ray image at the height of the lantern.](https://fgbossema.github.com/images/woodblog_2.jpg)
-![A virtual ‘cut’ of the 3D reconstruction at the base of the lantern showing the tree rings.](https://fgbossema.github.com/images/woodblog_3.jpg)
+![The sculpture.](images/woodblog_1.jpg)
+![An X-ray image at the height of the lantern.](images/woodblog_2.jpg)
+![A virtual ‘cut’ of the 3D reconstruction at the base of the lantern showing the tree rings.](images/woodblog_3.jpg)
 
 In collaboration with Prof. Dr. Erma Hermens (Rijksmuseum) we scanned a painting on a wooden panel: Cadmus sowing dragon’s teeth (Figure 2). This scan was part of a project concerning the investigation of two panel paintings depicting the same scene. Access to the tree ring pattern on the surface of the wooden panel was hindered by a small frame that surrounded the painting on all sides. The elongated shape of this panel, thin in one direction, long in the other two directions, presented a challenge to scan it in the limited space within the scanner. It also meant that the X-rays had to penetrate a much longer piece of wood in one direction than in the other. Because of the flexibility of the FleX-ray scanner, high resolution images could be obtained. The surprising results of the scan will be presented in a forthcoming scientific paper.
 
-![The painting ‘Cadmus sowing dragon’s teeth’ in the FleX-ray scanner.](https://fgbossema.github.com/images/woodblog_4.jpg)
+![The painting ‘Cadmus sowing dragon’s teeth’ in the FleX-ray scanner.](images/woodblog_4.jpg)
 
 A third object scanned recently consisted of a big wooden book chest thought to have served for the scape of Hugo de Groot from his imprisonment at Loevestein Castle in 1621. This project was part of a television series called ‘Historisch Bewijs’ . More details on this project will be published soon on this blog, so please keep an eye out for that!
