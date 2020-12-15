@@ -18,10 +18,9 @@ In CT scanning, the X-rays pass through the object and are absorbed depending on
 
 The first object is a beautiful oak sculpture of a Holy woman with lantern. Most rings were to be found in between the base of the lantern and the edge of the garment of the woman. In Figure 1 the object, an X-ray image and a detail of a slice of the 3D image are shown. The results will be presented in a scientific paper.
 
-<img src="/images/woodblog_1.jpg" width="500" /> 
+<img src="/images/woodblog_1.jpg" width="500" /> <img src="/images/woodblog_2.jpg" width="250" />
+
 *The sculpture*
- 
-<img src="/images/woodblog_2.jpg" width="500" />
 *An X-ray image at the height of the lantern.*
   
 <img src="/images/woodblog_3.jpg" width="500" />
