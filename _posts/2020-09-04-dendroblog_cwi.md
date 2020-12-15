@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Insight in Wood: Dating wooden object with 3D CT imaging
+title: Insight in Wood, Dating wooden object with 3D CT imaging
 excerpt: "CWI blogpost"
 tags: [CWI]
 comments: false
