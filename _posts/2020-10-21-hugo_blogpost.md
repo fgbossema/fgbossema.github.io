@@ -19,7 +19,7 @@ Dendrochronological research on the chests’ planks was used to find out if any
 
 
  <img src="images/hugoblog.jpg" width="500" />
- ![The chest in the X-ray facility at the Rijksmuseum. Clockwise starting top left: Jan Dorscheid, Iskander Breebaardt, Francien Bossema, Joost Batenburg.](images/hugoblog.jpg width="500")
+
 *The chest in the X-ray facility at the Rijksmuseum. Clockwise starting top left: Jan Dorscheid, Iskander Breebaardt, Francien Bossema, Joost Batenburg.*
 
 
