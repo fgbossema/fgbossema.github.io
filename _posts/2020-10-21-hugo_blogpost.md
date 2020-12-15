@@ -19,7 +19,8 @@ Dendrochronological research on the chests’ planks was used to find out if any
 
 
  <img src="images/hugoblog.jpg" width="500" />
-The chest in the X-ray facility at the Rijksmuseum. Clockwise starting top left: Jan Dorscheid, Iskander Breebaardt, Francien Bossema, Joost Batenburg.
+*The chest in the X-ray facility at the Rijksmuseum. Clockwise starting top left: Jan Dorscheid, Iskander Breebaardt, Francien Bossema, Joost Batenburg.*
+
 
 Then came what Robert van Langh, director of the Conservation and Research department of the Rijksmuseum called “a true Dutch innovation”: by moving the chest sideways through the view of the X-ray camera, Francien and Joost managed to squeeze a bit of 3D information out of a plank, just enough to recognize the tree-ring pattern. “For me, this result was quite unexpected,” Francien explains, “as we were not sure this would give us enough information to visualize the rings.” Although CT from limited angles is nothing new to X-ray scientists, Francien and Joost were lucky. “Only elongated structures such as stripes can really be recovered using this method, luckily tree rings are basically that,” Francien says. In a follow-up project she hopes to further explore limited-angle scanning for big objects like furniture.
 
