@@ -20,6 +20,7 @@ See also [Orcid](https://orcid.org/0000-0001-5668-5326) for a list of publicatio
 `2019`
 A five-tile tomographic micro-CT dataset of the oak sculpture [Holy woman with lantern](https://www.rijksmuseum.nl/nl/collectie/BK-NM-9253), see [Zenodo](https://zenodo.org/record/3747192#.X5bWcYhKg2w).
 
+`2019`
 Three tomographic CT datasets of a woven fabric, see [Zenodo](https://zenodo.org/record/3741311#.X5f0-IhKg2w).
 
 ## Journalistic
