@@ -18,13 +18,9 @@ In CT scanning, the X-rays pass through the object and are absorbed depending on
 
 The first object is a beautiful oak sculpture of a Holy woman with lantern. Most rings were to be found in between the base of the lantern and the edge of the garment of the woman. In Figure 1 the object, an X-ray image and a detail of a slice of the 3D image are shown. The results will be presented in a scientific paper.
 
-<img src="/images/woodblog_1.jpg" width="500" /> <img src="/images/woodblog_2.jpg" width="250" />
+<img src="/images/woodblog_1.jpg" width="250" /> <img src="/images/woodblog_2.jpg" width="250" /> <img src="/images/woodblog_3.jpg" width="250" />
 
-*The sculpture*
-*An X-ray image at the height of the lantern.*
-  
-<img src="/images/woodblog_3.jpg" width="500" />
-*A virtual ‘cut’ of the 3D reconstruction at the base of the lantern showing the tree rings.* 
+*The sculpture, An X-ray image at the height of the lantern, and A virtual ‘cut’ of the 3D reconstruction at the base of the lantern showing the tree rings.* 
   
 
 In collaboration with Prof. Dr. Erma Hermens (Rijksmuseum) we scanned a painting on a wooden panel: Cadmus sowing dragon’s teeth (Figure 2). This scan was part of a project concerning the investigation of two panel paintings depicting the same scene. Access to the tree ring pattern on the surface of the wooden panel was hindered by a small frame that surrounded the painting on all sides. The elongated shape of this panel, thin in one direction, long in the other two directions, presented a challenge to scan it in the limited space within the scanner. It also meant that the X-rays had to penetrate a much longer piece of wood in one direction than in the other. Because of the flexibility of the FleX-ray scanner, high resolution images could be obtained. The surprising results of the scan will be presented in a forthcoming scientific paper.
