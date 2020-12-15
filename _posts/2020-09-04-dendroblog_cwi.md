@@ -17,7 +17,7 @@ One of these collaborations is with Marta Domínguez-Delmás (University of Amst
 In CT scanning, the X-rays pass through the object and are absorbed depending on the thickness and density of the material. A detector registers the intensity of the X-rays after they passed through the object, creating a ‘shadow’ image on which internal features are visible. In order to know the exact location and shape of these features, images from all sides are combined to create a 3D representation. The object can then be ‘cut’ virtually, allowing the inspection of the interior. This adds a new dimension to the investigation of works of art, facilitating (virtual) access to all parts of the objects being investigated and providing new perspectives. Being able to look through these objects reveals a wealth of useful information that would otherwise have remained inaccessible. Together with Marta, we successfully scanned and dated two wooden art objects. The scanning was executed at CWI’s state-of-the-art FleX-ray Lab. 
 
 The first object is a beautiful oak sculpture of a Holy woman with lantern. Most rings were to be found in between the base of the lantern and the edge of the garment of the woman. In Figure 1 the object, an X-ray image and a detail of a slice of the 3D image are shown. The results will be presented in a scientific paper.
-![The sculpture.](images/woodblog_1.jpg)
+![The sculpture.](images/woodblog_1.jpg =100x)
 ![An X-ray image at the height of the lantern.](images/woodblog_2.jpg)
 ![A virtual ‘cut’ of the 3D reconstruction at the base of the lantern showing the tree rings.](images/woodblog_3.jpg)
 
