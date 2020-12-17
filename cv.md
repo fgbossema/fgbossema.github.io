@@ -39,12 +39,12 @@ Research internship
 ## Additional courses and certificates
 
 `2020`
-__Presenting Science__ \
-NWO-I course, provided by [Artesc](https://www.artesc.org/)
-
-`2020`
 __Basiscursus stralingsbescherming (Radiation Safety)__ \
 [Erasmus MC](https://eduweb.tcg-academy.nl/EDU/catalogItem/2ce64479-be71-4268-91f2-88b737a08768), followed subjects: e-module, introduction and Röntgen (X-rays). 
+
+`2020`
+__Presenting Science__ \
+NWO-I course, provided by [Artesc](https://www.artesc.org/)
 
 `2019`
 __Taking charge of your PhD project__ \
