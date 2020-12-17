@@ -36,11 +36,34 @@ Practical Science Communication and Public Events internship
 __Universiteit Leiden, department of Science communication and Society__ \
 Research internship
 
+## Additional courses and certificates
+
+`2019`
+__Taking charge of your PhD project__ \
+NWO-I course
+
+__Reproducibility of software__ \
+CWI course, provided by [Writing better code](https://www.writingbettercode.nl/)
+
+`2020`
+__Presenting Science__ \ 
+NWO-I course, provided by [Artesc](https://www.artesc.org/)
+
+__Basiscursus stralingsbescherming (Radiation Safety)__ \ 
+[Erasmus MC](https://eduweb.tcg-academy.nl/EDU/catalogItem/2ce64479-be71-4268-91f2-88b737a08768), followed subjects: e-module, introduction and Röntgen (X-rays). 
+
 ## Work experience
 
 `2014-2016`
 __Vrije Universiteit Amsterdam__ \
 Teaching assistent
+
+## Awards and grants
+
+`2020`
+__SIAM, Imaging Science 2020, Toronto__ \
+Student travel award (afterwards converted to virtual conference due to Covid-19)
+
 
 ## Committees and other activities 
 
@@ -56,16 +79,12 @@ Student member of the Programme Committee for the Bachelor programme of Mathemat
 __Vrije Universiteit Amsterdam__ \
 Member of the 'exploration' committee, advising Vrije Universiteit Amsterdam and University of Amsterdam on the possible merging of the Mathematics bachelor studies of the two universities.  
 
-## Awards and grants
 
-`2020`
-__SIAM, Imaging Science 2020, Toronto__ \
-Student travel award (afterwards converted to virtual conference due to Covid-19)
 
 
 
 <!-- ### Footer 
 
-Last updated: October 2020 -->
+Last updated: December 2020 -->
 
 
