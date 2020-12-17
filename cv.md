@@ -39,17 +39,17 @@ Research internship
 ## Additional courses and certificates
 
 `2019`
-__Taking charge of your PhD project__ \
+__Taking charge of your PhD project__ \ 
 NWO-I course
 
-__Reproducibility of software__ \
+__Reproducibility of software__ \ 
 CWI course, provided by [Writing better code](https://www.writingbettercode.nl/)
 
 `2020`
-__Presenting Science__ \ 
+__Presenting Science__ \  
 NWO-I course, provided by [Artesc](https://www.artesc.org/)
 
-__Basiscursus stralingsbescherming (Radiation Safety)__ \ 
+__Basiscursus stralingsbescherming (Radiation Safety)__ \  
 [Erasmus MC](https://eduweb.tcg-academy.nl/EDU/catalogItem/2ce64479-be71-4268-91f2-88b737a08768), followed subjects: e-module, introduction and Röntgen (X-rays). 
 
 ## Work experience
