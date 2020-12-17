@@ -55,6 +55,11 @@ __Reproducibility of software__ \
 CWI course, provided by [Writing better code](https://www.writingbettercode.nl/)
 
 
+## Awards and grants
+
+`2020`
+__SIAM, Imaging Science 2020, Toronto__ \
+Student travel award (afterwards converted to virtual conference due to Covid-19)
 
 ## Work experience
 
@@ -62,11 +67,6 @@ CWI course, provided by [Writing better code](https://www.writingbettercode.nl/)
 __Vrije Universiteit Amsterdam__ \
 Teaching assistent
 
-## Awards and grants
-
-`2020`
-__SIAM, Imaging Science 2020, Toronto__ \
-Student travel award (afterwards converted to virtual conference due to Covid-19)
 
 
 ## Committees and other activities 
