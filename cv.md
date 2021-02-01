@@ -38,6 +38,10 @@ Research internship
 
 ## Additional courses and certificates
 
+`2021`
+__Machine Learning using Python: Theory and Applications__ \ 
+[Winter school at TU Berlin](https://www.tu-berlin.de/menue/summer_university/winter_university_online_2021/machine_learning_using_python_theory_and_application/)
+
 `2020`
 __Basiscursus stralingsbescherming (Radiation Safety)__ \
 [Erasmus MC](https://eduweb.tcg-academy.nl/EDU/catalogItem/2ce64479-be71-4268-91f2-88b737a08768), followed subjects: e-module, introduction and Röntgen (X-rays). 
@@ -57,9 +61,13 @@ CWI course, provided by [Writing better code](https://www.writingbettercode.nl/)
 
 ## Awards and grants
 
+`2021`
+__EWM-NL career support grant__ \ 
+Career suppport grant to attend the winter course 'Machine Learning using Python: Theory and Applications'. 
+
 `2020`
 __SIAM, Imaging Science 2020, Toronto__ \
-Student travel award (afterwards converted to virtual conference due to Covid-19)
+Student travel award (afterwards converted to virtual conference due to Covid-19).
 
 ## Work experience
 
