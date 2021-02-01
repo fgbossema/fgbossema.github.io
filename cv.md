@@ -39,7 +39,7 @@ Research internship
 ## Additional courses and certificates
 
 `2021`
-__Machine Learning using Python: Theory and Applications__ \ 
+__Machine Learning using Python: Theory and Applications__ \
 [Winter school at TU Berlin](https://www.tu-berlin.de/menue/summer_university/winter_university_online_2021/machine_learning_using_python_theory_and_application/)
 
 `2020`
@@ -62,7 +62,7 @@ CWI course, provided by [Writing better code](https://www.writingbettercode.nl/)
 ## Awards and grants
 
 `2021`
-__EWM-NL career support grant__ \ 
+__EWM-NL career support grant__ \
 Career suppport grant to attend the winter course 'Machine Learning using Python: Theory and Applications'. 
 
 `2020`
@@ -97,6 +97,6 @@ Member of the 'exploration' committee, advising Vrije Universiteit Amsterdam and
 
 <!-- ### Footer 
 
-Last updated: December 2020 -->
+Last updated: January 2021 -->
 
 
