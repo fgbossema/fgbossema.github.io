@@ -5,6 +5,9 @@ title: Publications
 
 ## Scientific
 
+`2021`
+[Francien G.Bossema, Sophia Bethany Coban, Alexander Kostenko, Paulvan Duin, Jan Dorscheid, Isabelle Garachon, Erma Hermens, Robert van Liere, K. Joost Batenburg, Integrating expert feedback on the spot in a time-efficient explorative CT scanning workflow for cultural heritage objects, Journal of Cultural Heritage, 2021](https://www.sciencedirect.com/science/article/pii/S1296207421000558)
+
 `2019`
 [F.G. Bossema, P. Burger, L. Bratton, A. Challenger, R.C. Adams, P. Sumner, J. Schat, M.E. Numans, I. Smeets, Expert quotes and exaggeration in health news: A retrospective quantitative content analysis, Wellcome Open Res. (2019)](https://doi.org/10.12688/wellcomeopenres.15147.2).
 
