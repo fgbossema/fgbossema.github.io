@@ -39,6 +39,10 @@ Research internship
 ## Additional courses and certificates
 
 `2021`
+__The art of scientific writing__ \
+NWO-I course, provided by [Artesc](https://www.artesc.org/)
+
+`2021`
 __Machine Learning using Python: Theory and Applications__ \
 [Winter school at TU Berlin](https://www.tu-berlin.de/menue/summer_university/winter_university_online_2021/machine_learning_using_python_theory_and_application/)
 
@@ -52,7 +56,7 @@ NWO-I course, provided by [Artesc](https://www.artesc.org/)
 
 `2019`
 __Taking charge of your PhD project__ \
-NWO-I course
+NWO-I course, provided by [ElroyCOM](https://elroycom.nl/en/)
 
 `2019`
 __Reproducibility of software__ \
