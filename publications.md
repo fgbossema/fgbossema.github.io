@@ -45,7 +45,10 @@ Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/
 `2011`
 Profielwerkstuk Vossius Gymnasium ['Vrouwen in de Wiskunde'](https://cdn.atria.nl/epublications/IAV_B00104502.pdf) (high school last year paper, in Dutch) 
 
-## Works by other authors
+## Media
+
+`2021`
+[CWI 75 years - Special New Scientist issue, p12-14](https://issuu.com/vmadmin/docs/cwi_special_75_years)
 
 `2020`
 [Historisch bewijs, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs/04-03-2020/AT_2127977)
@@ -54,6 +57,6 @@ Profielwerkstuk Vossius Gymnasium ['Vrouwen in de Wiskunde'](https://cdn.atria.n
 
 <!-- ### Footer 
 
-Last updated: October 2020 -->
+Last updated: April 2021 -->
 
 
