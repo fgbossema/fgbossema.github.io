@@ -17,7 +17,6 @@ title: Publications
 `2018`
 [F. Bossema, J. Retrê, S. Pereira, P. Russo, ‘Your night out under the stars’: Reaching beyond native audiences, CAP journal (2018)](https://www.capjournal.org/issues/24/24_40.php).
 
-See also [Orcid](https://orcid.org/0000-0001-5668-5326) for a list of publications. 
 
 ## Data 
 `2019`
