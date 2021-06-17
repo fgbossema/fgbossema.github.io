@@ -5,17 +5,23 @@ title: Publications
 
 ## Scientific
 
+`2021` 
+[**Francien G.Bossema**, Marta Domínguez-Delmás, Willem Jan Palenstijn, Alexander Kostenko, Jan Dorscheid, Sophia Bethany Coban, Erma Hermens, K. Joost Batenburg, A novel method for dendrochronology of large historical wooden objects using line trajectory X-ray tomography, Scientific Reports **11**, 11024, 2021](https://www.nature.com/articles/s41598-021-90135-4)
+
 `2021`
-[Francien G.Bossema, Sophia Bethany Coban, Alexander Kostenko, Paul van Duin, Jan Dorscheid, Isabelle Garachon, Erma Hermens, Robert van Liere, K. Joost Batenburg, Integrating expert feedback on the spot in a time-efficient explorative CT scanning workflow for cultural heritage objects, Journal of Cultural Heritage, 2021](https://www.sciencedirect.com/science/article/pii/S1296207421000558)
+[Marta Domínguez-Delmás, **Francien G. Bossema**, Bieke van der Mark, Alexander Kostenko, Sophia Bethany Coban, Sjoerd van Daalen, Paul van Duin, K. Joost Batenburg, Dating and provenancing the Woman with lantern sculpture – A contribution towards attribution of Netherlandish art, Journal of Cultural Heritage, 2021](https://www.sciencedirect.com/science/article/pii/S1296207421000662)
+
+`2021`
+[**Francien G.Bossema**, Sophia Bethany Coban, Alexander Kostenko, Paul van Duin, Jan Dorscheid, Isabelle Garachon, Erma Hermens, Robert van Liere, K. Joost Batenburg, Integrating expert feedback on the spot in a time-efficient explorative CT scanning workflow for cultural heritage objects, Journal of Cultural Heritage, Vol. 49, p38-47, 2021](https://www.sciencedirect.com/science/article/pii/S1296207421000558)
 
 `2019`
-[F.G. Bossema, P. Burger, L. Bratton, A. Challenger, R.C. Adams, P. Sumner, J. Schat, M.E. Numans, I. Smeets, Expert quotes and exaggeration in health news: A retrospective quantitative content analysis, Wellcome Open Res. (2019)](https://doi.org/10.12688/wellcomeopenres.15147.2).
+[**F.G. Bossema**, P. Burger, L. Bratton, A. Challenger, R.C. Adams, P. Sumner, J. Schat, M.E. Numans, I. Smeets, Expert quotes and exaggeration in health news: A retrospective quantitative content analysis, Wellcome Open Res. (2019)](https://doi.org/10.12688/wellcomeopenres.15147.2).
 
 `2018`
-[J. Schat, F.G. Bossema, M.E. Numans, I. Smeets, P. Burger, Overdreven gezondheidsnieuws: Relatie tussen overdrijving in academische persberichten en in nieuwsmedia, Ned. Tijdschr. Geneeskd. (2018)](https://www.ntvg.nl/artikelen/overdreven-gezondheidsnieuws).
+[J. Schat, **F.G. Bossema**, M.E. Numans, I. Smeets, P. Burger, Overdreven gezondheidsnieuws: Relatie tussen overdrijving in academische persberichten en in nieuwsmedia, Ned. Tijdschr. Geneeskd. (2018)](https://www.ntvg.nl/artikelen/overdreven-gezondheidsnieuws).
 
 `2018`
-[F. Bossema, J. Retrê, S. Pereira, P. Russo, ‘Your night out under the stars’: Reaching beyond native audiences, CAP journal (2018)](https://www.capjournal.org/issues/24/24_40.php).
+[**F. Bossema**, J. Retrê, S. Pereira, P. Russo, ‘Your night out under the stars’: Reaching beyond native audiences, CAP journal (2018)](https://www.capjournal.org/issues/24/24_40.php).
 
 
 ## Data 
