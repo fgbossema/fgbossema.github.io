@@ -16,6 +16,8 @@ In the Impact4Art project [1], we try  to answer these questions using CT scanni
 
 Similar to medical imaging, where a crack in a human bone can be revealed by an X-ray, we use X-rays to peek into the interior of art objects. In the case of the sculpture, X-ray imaging reveals the tree rings as is shown in the red oval by a radiograph and a slice from the CT reconstruction (Fig. 1). These tree rings can be used to answer questions such as the date of manufacturing and the place of origin [3].
 
+ <img src="/images/visual.pdf" width="500" />
+
 **Impact4Art**
 
 The Impact4Art project aims to develop new techniques and algorithms tailored to the specific requirements for CT scanning art objects. Researchers from different backgrounds have joined forces to make this happen: art historians, conservators and imaging scientists.
