@@ -17,6 +17,6 @@ At the moment, I am a PhD student on the [Impact4Art](https://www.nicas-research
 
 Image: [Holy woman with lantern](https://www.rijksmuseum.nl/nl/collectie/BK-NM-9253), Rijksmuseum collection inventory number BK-NM-9253
 
-## Presentation at the AI&Arts webinar of the Turing Institute 25th of June 2021
+## Scientific resentation at the AI&Arts webinar of the Turing Institute 25th of June 2021 (20 min)
 [![Presentation AI&Arts](/images/Bossema_25_06_2021.png)](https://www.youtube.com/watch?v=vBB149Togl0)
 
