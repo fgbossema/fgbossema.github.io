@@ -9,7 +9,7 @@ title: Publications
 [Marta Domínguez-Delmás, **Francien G. Bossema**, Jan Dorscheid, Sophia Bethany Coban, Moorea Hall-Aquitania, K. Joost Batenburg, Erma Hermens: ‘X-ray computed tomography for non-invasive dendrochronology reveals a concealed double panelling on a painting from Rubens’ studio’, PLOS ONE, (27 augustus 2021)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255792)
 
 `2021` 
-[**Francien G.Bossema**, Marta Domínguez-Delmás, Willem Jan Palenstijn, Alexander Kostenko, Jan Dorscheid, Sophia Bethany Coban, Erma Hermens, K. Joost Batenburg, A novel method for dendrochronology of large historical wooden objects using line trajectory X-ray tomography, Scientific Reports **11**, 11024, 2021](https://www.nature.com/articles/s41598-021-90135-4)
+[**Francien G. Bossema**, Marta Domínguez-Delmás, Willem Jan Palenstijn, Alexander Kostenko, Jan Dorscheid, Sophia Bethany Coban, Erma Hermens, K. Joost Batenburg, A novel method for dendrochronology of large historical wooden objects using line trajectory X-ray tomography, Scientific Reports **11**, 11024, 2021](https://www.nature.com/articles/s41598-021-90135-4)
 
 `2021`
 [Marta Domínguez-Delmás, **Francien G. Bossema**, Bieke van der Mark, Alexander Kostenko, Sophia Bethany Coban, Sjoerd van Daalen, Paul van Duin, K. Joost Batenburg, Dating and provenancing the Woman with lantern sculpture – A contribution towards attribution of Netherlandish art, Journal of Cultural Heritage, 2021](https://www.sciencedirect.com/science/article/pii/S1296207421000662)
