@@ -77,7 +77,7 @@ Student travel award (afterwards converted to virtual conference due to Covid-19
 
 `2014-2016`
 __Vrije Universiteit Amsterdam__ \
-Teaching assistent
+Teaching assistant
 
 
 
