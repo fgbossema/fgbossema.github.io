@@ -17,7 +17,7 @@ At the moment, I am a PhD student on the [Impact4Art](https://www.nicas-research
 
 Image: [Holy woman with lantern](https://www.rijksmuseum.nl/nl/collectie/BK-NM-9253), Rijksmuseum collection inventory number BK-NM-9253
 
-## CWI podcast 2021
+## CWI podcast 2021 (in Dutch)
 For spotify, see [here](https://open.spotify.com/show/3qflIK954yDYYGg1guVdrK?si=3585a8ad2d204d35&nd=1).
 
 For youtube click on the image.
