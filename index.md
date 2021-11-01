@@ -20,7 +20,7 @@ Image: [Holy woman with lantern](https://www.rijksmuseum.nl/nl/collectie/BK-NM-9
 ## CWI podcast 2021
 For spotify, see [here](https://open.spotify.com/show/3qflIK954yDYYGg1guVdrK?si=3585a8ad2d204d35&nd=1).
 
-For youtube:
+For youtube click on the image.
 [![Podcast](/images/cwicast21.png)](https://www.youtube.com/watch?v=8-z6BuM3798&t=49s)
 
 ## Scientific presentation at the AI&Arts webinar of the Turing Institute 25th of June 2021 (20 min)
