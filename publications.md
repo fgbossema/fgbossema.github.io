@@ -58,6 +58,9 @@ Profielwerkstuk Vossius Gymnasium ['Vrouwen in de Wiskunde'](https://cdn.atria.n
 CWI Podcast 'Hoe de FleX-ray scanner kunstgeheimen onthult'. [Spotify](https://open.spotify.com/episode/6NBH16YvuTZjWbYDBI8LSA?si=0B8Vb4G-TDa7uoLKT-Q3_Q) and [Youtube](https://www.youtube.com/watch?v=8-z6BuM3798&t=49s).
 
 `2021`
+[CWI FleX-ray promo video](https://www.youtube.com/watch?v=6Zjm_L-cXEc)
+ 
+`2021`
 [CWI 75 years - Special New Scientist issue, p12-14](https://issuu.com/vmadmin/docs/cwi_special_75_years)
 
 `2020`
@@ -65,6 +68,9 @@ CWI Podcast 'Hoe de FleX-ray scanner kunstgeheimen onthult'. [Spotify](https://o
 
 `2020`
 [Historisch bewijs extra, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs-extra/04-03-2020/WO_AT_15997049)
+
+`2018`
+[CWI Computational Imaging group video](https://www.youtube.com/watch?v=KLyDcolzmD4)
 
 <!-- ### Footer 
 
