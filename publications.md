@@ -69,8 +69,7 @@ CWI Podcast 'Hoe de FleX-ray scanner kunstgeheimen onthult'. [Spotify](https://o
 `2020`
 [Historisch bewijs extra, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs-extra/04-03-2020/WO_AT_15997049)
 
-`2018`
-[CWI Computational Imaging group video](https://www.youtube.com/watch?v=KLyDcolzmD4)
+
 
 <!-- ### Footer 
 
