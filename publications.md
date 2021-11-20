@@ -54,6 +54,8 @@ Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/
 Profielwerkstuk Vossius Gymnasium ['Vrouwen in de Wiskunde'](https://cdn.atria.nl/epublications/IAV_B00104502.pdf) (high school last year paper, in Dutch) 
 
 ## Media
+`2021`
+CWI Podcast 'Hoe de FleX-ray scanner kunstgeheimen onthult'. [Spotify](https://open.spotify.com/episode/6NBH16YvuTZjWbYDBI8LSA?si=0B8Vb4G-TDa7uoLKT-Q3_Q) and [Youtube](https://www.youtube.com/watch?v=8-z6BuM3798&t=49s).
 
 `2021`
 [CWI 75 years - Special New Scientist issue, p12-14](https://issuu.com/vmadmin/docs/cwi_special_75_years)
@@ -61,6 +63,7 @@ Profielwerkstuk Vossius Gymnasium ['Vrouwen in de Wiskunde'](https://cdn.atria.n
 `2020`
 [Historisch bewijs, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs/04-03-2020/AT_2127977)
 
+`2020`
 [Historisch bewijs extra, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs-extra/04-03-2020/WO_AT_15997049)
 
 <!-- ### Footer 
