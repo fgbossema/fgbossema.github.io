@@ -34,6 +34,25 @@ A five-tile tomographic micro-CT dataset of the oak sculpture [Holy woman with l
 `2019`
 Three tomographic CT datasets of a woven fabric, see [Zenodo](https://zenodo.org/record/3741311#.X5f0-IhKg2w).
 
+## Media
+`2021`
+CWI Podcast 'Hoe de FleX-ray scanner kunstgeheimen onthult'. [Spotify](https://open.spotify.com/episode/6NBH16YvuTZjWbYDBI8LSA?si=0B8Vb4G-TDa7uoLKT-Q3_Q) and [Youtube](https://www.youtube.com/watch?v=8-z6BuM3798&t=49s).
+
+`2021` 
+[Ercim News no.127, p.39, 'CT Scans Reveal a Double Panel in an Oil Sketch after Rubens'](https://ercim-news.ercim.eu/images/stories/EN127/EN127-web.pdf)
+
+`2021`
+[CWI FleX-ray promo video](https://www.youtube.com/watch?v=6Zjm_L-cXEc)
+ 
+`2021`
+[CWI 75 years - Special New Scientist issue, p12-14](https://issuu.com/vmadmin/docs/cwi_special_75_years)
+
+`2020`
+[Historisch bewijs, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs/04-03-2020/AT_2127977)
+
+`2020`
+[Historisch bewijs extra, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs-extra/04-03-2020/WO_AT_15997049)
+
 ## Journalistic
 
 `2017`
@@ -53,21 +72,7 @@ Met bacteriën naar Mars, Ad Valvas, nr. 15 2017, pp. 10-13, [https://issuu.com/
 `2011`
 Profielwerkstuk Vossius Gymnasium ['Vrouwen in de Wiskunde'](https://cdn.atria.nl/epublications/IAV_B00104502.pdf) (high school last year paper, in Dutch) 
 
-## Media
-`2021`
-CWI Podcast 'Hoe de FleX-ray scanner kunstgeheimen onthult'. [Spotify](https://open.spotify.com/episode/6NBH16YvuTZjWbYDBI8LSA?si=0B8Vb4G-TDa7uoLKT-Q3_Q) and [Youtube](https://www.youtube.com/watch?v=8-z6BuM3798&t=49s).
 
-`2021`
-[CWI FleX-ray promo video](https://www.youtube.com/watch?v=6Zjm_L-cXEc)
- 
-`2021`
-[CWI 75 years - Special New Scientist issue, p12-14](https://issuu.com/vmadmin/docs/cwi_special_75_years)
-
-`2020`
-[Historisch bewijs, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs/04-03-2020/AT_2127977)
-
-`2020`
-[Historisch bewijs extra, TV show (in Dutch)](https://www.npostart.nl/historisch-bewijs-extra/04-03-2020/WO_AT_15997049)
 
 
 
