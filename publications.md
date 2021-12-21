@@ -35,6 +35,10 @@ A five-tile tomographic micro-CT dataset of the oak sculpture [Holy woman with l
 Three tomographic CT datasets of a woven fabric, see [Zenodo](https://zenodo.org/record/3741311#.X5f0-IhKg2w).
 
 ## Media
+
+`2021`
+[Ercim News no.128, p.48, 'NWO Team Science Award for ‘Hugo de Groot’s bookchest Team’](https://ercim-news.ercim.eu/images/stories/EN128/EN128-web.pdf)
+
 `2021`
 CWI Podcast 'Hoe de FleX-ray scanner kunstgeheimen onthult'. [Spotify](https://open.spotify.com/episode/6NBH16YvuTZjWbYDBI8LSA?si=0B8Vb4G-TDa7uoLKT-Q3_Q) and [Youtube](https://www.youtube.com/watch?v=8-z6BuM3798&t=49s).
 
