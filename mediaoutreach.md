@@ -1,6 +1,7 @@
-
-
-## Media and Outreach
+---
+layout: resume
+title: Media and Outreach
+---
 
 `2021`
 [Ercim News no.128, p.48, 'NWO Team Science Award for ‘Hugo de Groot’s bookchest Team’](https://ercim-news.ercim.eu/images/stories/EN128/EN128-web.pdf)
