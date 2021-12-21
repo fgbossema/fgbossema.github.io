@@ -7,6 +7,21 @@ title: Curriculum Vitae
 __Centrum Wiskunde & Informatica__ \
 PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
 
+## Awards and grants
+
+`2021`
+__NWO Team Science Award__ \
+"The Team Science Award rewards the most inspiring and successful team of researchers from various disciplinary fields, who jointly take on a scientific challenge in which their individual strengths and expertise demonstrably reinforce each other." ([NWO, Team Science Award]((https://www.nwo.nl/en/team-science-award))) \
+See the [CWI news item](https://www.cwi.nl/news/2021/nwo-team-science-award-for-cwi-and-research-partners) and [NWO website](https://www.nwo.nl/en/team-science-award).
+
+`2021`
+__EWM-NL career support grant__ \
+Career suppport grant to attend the winter course 'Machine Learning using Python: Theory and Applications'. 
+
+`2020`
+__SIAM, Imaging Science 2020, Toronto__ \
+Student travel award (afterwards converted to virtual conference due to Covid-19).
+
 ## Education
 
 `2015-2018`
@@ -63,25 +78,11 @@ __Reproducibility of software__ \
 CWI course, provided by [Writing better code](https://www.writingbettercode.nl/)
 
 
-## Awards and grants
-
-`2021`
-__EWM-NL career support grant__ \
-Career suppport grant to attend the winter course 'Machine Learning using Python: Theory and Applications'. 
-
-`2020`
-__SIAM, Imaging Science 2020, Toronto__ \
-Student travel award (afterwards converted to virtual conference due to Covid-19).
-
-## Work experience
-
-`2014-2016`
-__Vrije Universiteit Amsterdam__ \
-Teaching assistant
-
-
-
 ## Committees and other activities 
+
+`2021-`
+__European Women in Mathematics - Netherlands (EWM-NL) board member__
+See [EWM-NL website](https://www.ewmnetherlands.nl/home/board/).
 
 `2016-2017`
 __VU University Choir__ \
