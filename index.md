@@ -23,6 +23,9 @@ For spotify, see [here](https://open.spotify.com/show/3qflIK954yDYYGg1guVdrK?si=
 For youtube click on the image.
 [![Podcast](/images/cwicast21.png)](https://www.youtube.com/watch?v=8-z6BuM3798&t=49s)
 
+## NICAS colloquium presentation 'Tailoring X-ray Imaging Techniques to date the Hugo de Groot chest', 9th of December 2021
+[![Presentation NICAS](/images/Bossema_nicas.png)][(https://youtu.be/tY1gDk12zCA)]
+
 ## Scientific presentation at the AI&Arts webinar of the Turing Institute 25th of June 2021 (20 min)
 [![Presentation AI&Arts](/images/Bossema_25_06_2021.png)](https://www.youtube.com/watch?v=vBB149Togl0)
 
