@@ -3,7 +3,7 @@ layout: resume
 title: Presentations
 ---
 
-`2021'
+`2021`
 __NICAS colloquium presentation__ \
 'Tailoring X-ray Imaging Techniques to date the Hugo de Groot chest' \
 9th of December 2021 \
