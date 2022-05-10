@@ -6,7 +6,7 @@ title: Media and Outreach
 [BNR Eyeopeners radiopodcast (in Dutch), 7th of April 2022](https://www.bnr.nl/podcast/eyeopeners/10472713/de-geheimen-achter-de-nachtwacht-onthult-met-technologie)
 
 `2021`
-[Ercim News no.128, p.48, 'NWO Team Science Award for ‘Hugo de Groot’s bookchest Team’](https://ercim-news.ercim.eu/images/stories/EN128/EN128-web.pdf)
+[Ercim News no.128, p.48, 'NWO Team Science Award for ‘Hugo de Groot’s bookchest Team’'](https://ercim-news.ercim.eu/images/stories/EN128/EN128-web.pdf)
 
 `2021`
 CWI Podcast 'Hoe de FleX-ray scanner kunstgeheimen onthult'. [Spotify](https://open.spotify.com/episode/6NBH16YvuTZjWbYDBI8LSA?si=0B8Vb4G-TDa7uoLKT-Q3_Q) and [Youtube](https://www.youtube.com/watch?v=8-z6BuM3798&t=49s).
