@@ -2,6 +2,8 @@
 layout: resume
 title: Media and Outreach
 ---
+`2022` 
+[BNR Eyeopeners radiopodcast (in Dutch), 7th of April 2022](https://www.bnr.nl/podcast/eyeopeners/10472713/de-geheimen-achter-de-nachtwacht-onthult-met-technologie)
 
 `2021`
 [Ercim News no.128, p.48, 'NWO Team Science Award for ‘Hugo de Groot’s bookchest Team’](https://ercim-news.ercim.eu/images/stories/EN128/EN128-web.pdf)
