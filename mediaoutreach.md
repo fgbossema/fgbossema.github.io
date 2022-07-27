@@ -2,6 +2,10 @@
 layout: resume
 title: Media and Outreach
 ---
+
+`2022` 
+[NWO interview on the importance of the 2021 NWO Team Science Award.](https://www.nwo.nl/en/news/your-nominations-2022-nwo-domain-science-awards-are-welcome-until-june-16)
+
 `2022` 
 [BNR Eyeopeners radiopodcast (in Dutch), 7th of April 2022](https://www.bnr.nl/podcast/eyeopeners/10472713/de-geheimen-achter-de-nachtwacht-onthult-met-technologie)
 
