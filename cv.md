@@ -7,12 +7,41 @@ title: Curriculum Vitae
 __Centrum Wiskunde & Informatica__ \
 PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
 
-## Awards and grants
+## Awards
+`2022`
+__Best Presentation Award__ \
+Student award for best presentation (PhD level) at the Ameridendro 2022 conference in Montreal, Canada, July 2022. 
 
 `2021`
 __NWO Team Science Award__ \
 "The Team Science Award rewards the most inspiring and successful team of researchers from various disciplinary fields, who jointly take on a scientific challenge in which their individual strengths and expertise demonstrably reinforce each other." ([NWO, Team Science Award]((https://www.nwo.nl/en/team-science-award))) \
 See the [CWI news item](https://www.cwi.nl/news/2021/nwo-team-science-award-for-cwi-and-research-partners) and [NWO website](https://www.nwo.nl/en/team-science-award).
+
+## Grants
+
+`2022`
+__Catherine van Tussenbroekfonds__
+Travel grant.
+
+`2022`
+__EWM travel grant__
+Travel grant. 
+
+`2021`
+__NICAS Small Grant__ \
+NICAS Small Grant for [research project IntACT](https://www.nicas-research.nl/projects/intact-3d-visualisation-of-the-interior-of-art-objects-through-ct-scans/), with Prof. dr. Joost Batenburg and Prof. dr. Erma Hermens.
+
+`2021`
+__Jo Kolk studiefonds__ \
+Travel grant. 
+
+`2021`
+__SNMAP Small research grant__
+Small research grant, with dr. Rachel Schats and dr. Tristan van Leeuwen.
+
+`2021`
+__Prins Bernhard Cultuurfonds grant__ \
+Travel grant. 
 
 `2021`
 __EWM-NL career support grant__ \
@@ -52,6 +81,10 @@ __Universiteit Leiden, department of Science communication and Society__ \
 Research internship
 
 ## Additional courses and certificates
+
+`2022`
+__Scientific Storytelling__
+[One day course by Marloes ten Kate and David Redeker.](https://www.scientificstorytelling.nl/) 
 
 `2021`
 __The art of scientific writing__ \
