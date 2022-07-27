@@ -10,7 +10,7 @@ PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterd
 ## Awards
 `2022`
 __Best Presentation Award__ \
-Student award for best presentation (PhD level) at the Ameridendro 2022 conference in Montreal, Canada, July 2022. 
+Student award for best presentation (PhD level) at the [Ameridendro 2022](https://sites.grenadine.uqam.ca/sites/geotop/en/ameridendro2022/) conference in Montreal, Canada, July 2022. 
 
 `2021`
 __NWO Team Science Award__ \
