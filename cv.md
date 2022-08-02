@@ -3,8 +3,12 @@ layout: resume
 title: Curriculum Vitae
 ---
 ## Currently
+`2022-`
+__British Museum, London__ \
+PhD research placement
+
 `2018-`
-__Centrum Wiskunde & Informatica__ \
+__Centrum Wiskunde & Informatica, Amsterdam__ \
 PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
 
 ## Awards
