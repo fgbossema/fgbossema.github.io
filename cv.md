@@ -33,7 +33,7 @@ Travel grant.
 
 `2021`
 __NICAS Small Grant__ \
-NICAS Small Grant for [research project IntACT](https://www.nicas-research.nl/projects/intact-3d-visualisation-of-the-interior-of-art-objects-through-ct-scans/), with Prof. dr. Joost Batenburg and Prof. dr. Erma Hermens.
+NICAS Small Grant for [research project IntACT](https://www.nicas-research.nl/projects/intact-3d-visualisation-of-the-interior-of-art-objects-through-ct-scans/), with Prof. dr. Joost Batenburg and Prof. dr. Erma Hermens. This project was in collaboration with Paul van Laar, Tristan van Leeuwen and Suzan Meijer. See also the [presentation by junior researcher Paul van Laar at the NICAS project day 8 of June 2022](https://www.youtube.com/watch?t=1154&v=9NcqFhlJQ-I&feature=youtu.be). 
 
 `2021`
 __Jo Kolk studiefonds__ \
