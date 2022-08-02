@@ -24,7 +24,7 @@ See the [CWI news item](https://www.cwi.nl/news/2021/nwo-team-science-award-for-
 ## Grants
 
 `2022`
-__Catherine van Tussenbroekfonds__ \
+__Catharine van Tussenbroekfonds__ \
 Travel grant.
 
 `2022`
