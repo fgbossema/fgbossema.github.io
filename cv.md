@@ -87,7 +87,7 @@ Research internship
 ## Additional courses and certificates
 
 `2022`
-__Scientific Storytelling__
+__Scientific Storytelling__ \
 [One day course by Marloes ten Kate and David Redeker.](https://www.scientificstorytelling.nl/) 
 
 `2021`
