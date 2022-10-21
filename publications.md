@@ -5,6 +5,9 @@ title: Publications
 
 ## Scientific
 
+`2022`
+[J. Dorscheid, **F.G. Bossema**, P. van Duin, S.B. Coban, R. van Liere, K.J. Batenburg, G.P. Di Stefano, “Looking under the skin – multi-scale CT scanning of a peculiarly constructed cornett in the Rijksmuseum”, Heritage Science 10, 161 (2022)](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-022-00800-8)
+
 `2021`
 [Marta Domínguez-Delmás, **Francien G. Bossema**, Jan Dorscheid, Sophia Bethany Coban, Moorea Hall-Aquitania, K. Joost Batenburg, Erma Hermens: ‘X-ray computed tomography for non-invasive dendrochronology reveals a concealed double panelling on a painting from Rubens’ studio’, PLOS ONE, (27 augustus 2021)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255792)
 
