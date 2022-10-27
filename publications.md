@@ -56,7 +56,7 @@ A five-tile tomographic micro-CT dataset of the oak sculpture [Holy woman with l
 Three tomographic CT datasets of a woven fabric, see [Zenodo](https://zenodo.org/record/3741311#.X5f0-IhKg2w).
 
 
-## Journalistic
+## Journal articles
 
 `2017`
 Click [here](https://www.volkskrant.nl/auteur/francien-bossema) for the articles written in the Dutch newspaper De Volkskrant. 
