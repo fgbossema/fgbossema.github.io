@@ -25,7 +25,7 @@ See the [CWI news item](https://www.cwi.nl/news/2021/nwo-team-science-award-for-
 
 `2022` 
 __London Mathematical Society__ \
-[Research workshop grant,](https://www.lms.ac.uk/grants/scheme-6) with Prof. dr. Carola-Bibiane Sch\"onlieb.
+[Research workshop grant,](https://www.lms.ac.uk/grants/scheme-6) with Prof. dr. Carola-Bibiane Sch&oumlnlieb.
 
 `2022`
 __Catharine van Tussenbroekfonds__ \
