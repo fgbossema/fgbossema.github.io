@@ -4,6 +4,9 @@ title: Publications
 ---
 
 ## Scientific
+`2022` 
+[**Francien Bossema**, Charlotte Zwetsloot and Ionica Smeets, 'Math in the City: Designing a Math Trail for High School Students' in *Handbook of Mathematical Science Communication*, Edited By: Anna Maria Hartkopf and Erin Henning](https://www.worldscientific.com/worldscibooks/10.1142/12747#t=aboutBook)
+
 
 `2022`
 [J. Dorscheid, **F.G. Bossema**, P. van Duin, S.B. Coban, R. van Liere, K.J. Batenburg, G.P. Di Stefano, “Looking under the skin – multi-scale CT scanning of a peculiarly constructed cornett in the Rijksmuseum”, Heritage Science 10, 161 (2022)](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-022-00800-8)
