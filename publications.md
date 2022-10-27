@@ -3,7 +3,7 @@ layout: resume
 title: Publications
 ---
 
-## Scientific
+## Scientific articles
 `2022` 
 [**Francien Bossema**, Charlotte Zwetsloot and Ionica Smeets, "Math in the City: Designing a Math Trail for High School Students" in *Handbook of Mathematical Science Communication*, Edited By: Anna Maria Hartkopf and Erin Henning](https://www.worldscientific.com/worldscibooks/10.1142/12747#t=aboutBook)
 
@@ -33,7 +33,7 @@ title: Publications
 [**F. Bossema**, J. Retrê, S. Pereira, P. Russo, "Your night out under the stars: Reaching beyond native audiences", CAP journal (2018)](https://www.capjournal.org/issues/24/24_40.php).
 
 
-## Data 
+## Datasets
 `2021`
 A line trajectory X-ray tomography dataset of the [Hugo de Groot bookchest](https://www.rijksmuseum.nl/en/collection/NG-KOG-1208), see [Zenodo](https://doi.org/10.5281/zenodo.4533923).
 
@@ -81,6 +81,6 @@ Profielwerkstuk Vossius Gymnasium ['Vrouwen in de Wiskunde'](https://cdn.atria.n
 
 <!-- ### Footer 
 
-Last updated: April 2021 -->
+Last updated: October 2022  -->
 
 
