@@ -23,6 +23,10 @@ See the [CWI news item](https://www.cwi.nl/news/2021/nwo-team-science-award-for-
 
 ## Grants
 
+`2022` 
+__London Mathematical Society__ \
+[Research workshop grant,](https://www.lms.ac.uk/grants/scheme-6) with Prof. dr. Carola-Bibiane Sch\"onlieb.
+
 `2022`
 __Catharine van Tussenbroekfonds__ \
 Travel grant.
