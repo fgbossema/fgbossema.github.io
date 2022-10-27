@@ -74,8 +74,6 @@ BSc. Mathematics & BSc. Physics and Astronomy
 __University of Greenwich, London__ \
 Minor in Humanities
 
-## Internships
-
 `2017`
 __De Volkskrant, Amsterdam__ \
 Science Journalism internship
