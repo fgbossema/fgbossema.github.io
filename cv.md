@@ -66,14 +66,6 @@ __Universiteit Leiden__ \
 MSc. Mathematics
 Additional specialisation: Science Communication and Society
 
-`2011-2015`
-__Vrije Universiteit Amsterdam__ \
-BSc. Mathematics & BSc. Physics and Astronomy
-
-`2013`
-__University of Greenwich, London__ \
-Minor in Humanities
-
 `2017`
 __De Volkskrant, Amsterdam__ \
 Science Journalism internship
@@ -85,6 +77,14 @@ Practical Science Communication and Public Events internship
 `2017`
 __Universiteit Leiden, department of Science communication and Society__ \
 Research internship
+
+`2011-2015`
+__Vrije Universiteit Amsterdam__ \
+BSc. Mathematics & BSc. Physics and Astronomy
+
+`2013`
+__University of Greenwich, London__ \
+Minor in Humanities
 
 ## Additional courses and certificates
 
