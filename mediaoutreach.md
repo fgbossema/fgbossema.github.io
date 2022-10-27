@@ -2,6 +2,11 @@
 layout: resume
 title: Media and Outreach
 ---
+`2022`
+[Project video IntACT, with Suzan Meijer and Paul van Laar, made by Trenchcoat film.](https://www.youtube.com/watch?v=TdhAO7CWjtA)
+
+`2022`
+[Blog 'Uncovering hidden features inside art objects in an interactive environment', with Paul van Laar, CWI website](https://www.cwi.nl/news/blogs/uncovering-hidden-features-inside-art-objects-in-an-interactive-environment) Also on the [NICAS website](https://www.nicas-research.nl/uncovering-hidden-features-inside-art-objects-in-an-interactive-environment/).
 
 `2022` 
 [NWO interview on the importance of the 2021 NWO Team Science Award.](https://www.nwo.nl/en/news/your-nominations-2022-nwo-domain-science-awards-are-welcome-until-june-16)
