@@ -121,8 +121,12 @@ CWI course, provided by [Writing better code](https://www.writingbettercode.nl/)
 
 ## Committees and other activities 
 
-`2021-`
-__European Women in Mathematics - Netherlands (EWM-NL) board member__
+`2022`
+__Research workshop 'Computational methods for Cultural Heritage'__ \
+An in-house research workshop in the Scientific Department of the British Museum, funded by the LMS and supported by the British Museum. Organised by: Francien Bossema, Dan O'Flynn, Joanne Dyer, Carola-Bibiane Schönlieb, Erma Hermens and Dan Pett. 
+
+`2021-2022`
+__European Women in Mathematics - Netherlands (EWM-NL) board member__ \
 See [EWM-NL website](https://www.ewmnetherlands.nl/home/board/).
 
 `2016-2017`
