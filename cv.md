@@ -3,13 +3,34 @@ layout: resume
 title: Curriculum Vitae
 ---
 ## Currently
+`2018-`
+__Centrum Wiskunde & Informatica, Amsterdam__ \
+PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
+
+## Work experience
 `2022-`
 __British Museum, London__ \
 PhD research placement
 
-`2018-`
-__Centrum Wiskunde & Informatica, Amsterdam__ \
-PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
+`2017-2018`
+__Centrum Wiskunde & Informatica, Amsterdam and Leiden University__ \
+Master thesis internship
+
+`2017`
+__De Volkskrant, Amsterdam__ \
+Science Journalism internship
+
+`2017`
+__Instituto de Astrofísica e Ciências do Espaço, Lisbon__ \
+Practical Science Communication and Public Events internship
+
+`2017`
+__Universiteit Leiden, department of Science communication and Society__ \
+Research internship
+
+`2014-2016` 
+__Vrije Universiteit Amsterdam__ \
+Teaching assistant mathematics
 
 ## Awards
 `2022`
@@ -65,18 +86,6 @@ Student travel award (afterwards converted to virtual conference due to Covid-19
 __Universiteit Leiden__ \
 MSc. Mathematics
 Additional specialisation: Science Communication and Society
-
-`2017`
-__De Volkskrant, Amsterdam__ \
-Science Journalism internship
-
-`2017`
-__Instituto de Astrofísica e Ciências do Espaço, Lisbon__ \
-Practical Science Communication and Public Events internship
-
-`2017`
-__Universiteit Leiden, department of Science communication and Society__ \
-Research internship
 
 `2011-2015`
 __Vrije Universiteit Amsterdam__ \
