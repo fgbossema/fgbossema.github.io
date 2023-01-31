@@ -13,7 +13,7 @@ owner:
   # Do not include the @ symbol in your Twitter username
   twitter: FrancienBossema
   linkedin: francien-bossema-a587b012a #username
-  #github: fgbos
+  github: fgbossema
   orcid: 0000-0001-5668-5326 # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: https://scholar.google.com/citations?user=Nu_UmREAAAAJ&hl=en&oi=ao
   facebook: #username
   instagram: #username
   bing-verify:
