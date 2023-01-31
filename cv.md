@@ -8,7 +8,7 @@ __Centrum Wiskunde & Informatica, Amsterdam__ \
 PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
 
 ## Work experience
-`2022-`
+`2022`
 __British Museum, London__ \
 PhD research placement
 
