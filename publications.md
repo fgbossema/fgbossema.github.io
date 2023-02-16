@@ -5,7 +5,7 @@ title: Publications
 
 ## Scientific articles
 `2022` 
-[**Francien Bossema**, Charlotte Zwetsloot and Ionica Smeets, "Math in the City: Designing a Math Trail for High School Students" in *Handbook of Mathematical Science Communication*, Edited By: Anna Maria Hartkopf and Erin Henning](https://www.worldscientific.com/worldscibooks/10.1142/12747#t=aboutBook)
+[**Francien Bossema**, Charlotte Zwetsloot and Ionica Smeets, "Math in the City: Designing a Math Trail for High School Students"](https://doi.org/10.1142/9789811253072_0005) in [*Handbook of Mathematical Science Communication*](https://www.worldscientific.com/worldscibooks/10.1142/12747#t=aboutBook), Edited By: Anna Maria Hartkopf and Erin Henning.
 
 
 `2022`
