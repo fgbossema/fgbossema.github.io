@@ -4,6 +4,10 @@ title: Publications
 ---
 
 ## Scientific articles
+`2023`
+[Maximilian B. Kiss, **Francien G. Bossema**, Paul J. C. van Laar, Suzan Meijer, Felix Lucka, Tristan van Leeuwen & K. Joost Batenburg, "Beam filtration for object-tailored X-ray CT of multi-material cultural heritage objects", Heritage Science 11, 130 (2023)](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-023-00970-z)
+
+
 `2022` 
 [**Francien Bossema**, Charlotte Zwetsloot and Ionica Smeets, "Math in the City: Designing a Math Trail for High School Students"](https://doi.org/10.1142/9789811253072_0005) in [*Handbook of Mathematical Science Communication*](https://www.worldscientific.com/worldscibooks/10.1142/12747#t=aboutBook), Edited By: Anna Maria Hartkopf and Erin Henning.
 
