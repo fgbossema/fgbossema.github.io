@@ -7,7 +7,7 @@ title: Curriculum Vitae
 __eScience Center__ \
 [Fellow 2023-2024, project title: 'Research software in the museum – fusion and visualisation of multiple 3D imaging modalities to investigate the interior and exterior cultural heritage objects'](https://www.esciencecenter.nl/fellows/francien-bossema/)
 
-`2018-`
+`2018-2023`
 __Centrum Wiskunde & Informatica, Amsterdam__ \
 PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
 
