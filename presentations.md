@@ -15,6 +15,10 @@ __AI&Arts webinar of the Turing Institute__ \
 25th of June 2021 \
 [![Presentation AI&Arts](/images/Bossema_25_06_2021.png)](https://www.youtube.com/watch?v=vBB149Togl0)
 
-**2018** \
+__2019__ \
+'11-01-2019' 
+Presentation at the DAMTP seminar of Prof. dr. Carola Sch\"onlieb in Cambridge
+
+__2018__ \
 `16-10-2018` 
 Keynote presentation *The FleX-ray lab: Looking through objects* at Symposium Rediscovered at Leiden university library 
