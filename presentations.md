@@ -15,6 +15,6 @@ __AI&Arts webinar of the Turing Institute__ \
 25th of June 2021 \
 [![Presentation AI&Arts](/images/Bossema_25_06_2021.png)](https://www.youtube.com/watch?v=vBB149Togl0)
 
-**2018**
+**2018** \
 `16-10-2018` 
 Keynote presentation *The FleX-ray lab: Looking through objects* at Symposium Rediscovered at Leiden university library 
