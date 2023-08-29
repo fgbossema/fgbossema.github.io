@@ -20,9 +20,9 @@ ICON, The Institute of Conservation, United Kingdom, Online Seminar
 Internal presentation for the British Museum Scientific Research Department
 
 `21-10-2022` *Tailoring 3D X-ray imaging for Cultural Heritage research* \
- Invited lecture in the Cambridge Image Analysis seminar, led by Prof. Carola-Bibiane Schönlieb, at DAMTP, Cambridge University
+Invited lecture in the Cambridge Image Analysis seminar, led by Prof. Carola-Bibiane Schönlieb, at DAMTP, Cambridge University
 
-`29-09-2022` \
+`29-09-2022` *Tailoring 3D X-ray imaging for Cultural Heritage research* \
 Research workshop ‘Computational Methods for Cultural Heritage’ at the British Museum. Organisation and presentation 
 
 `29-06-2022` *Applications and advances in X-ray Computed Tomography (CT) for dendrochronology* \
