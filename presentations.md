@@ -16,6 +16,9 @@ __AI&Arts webinar of the Turing Institute__ \
 [![Presentation AI&Arts](/images/Bossema_25_06_2021.png)](https://www.youtube.com/watch?v=vBB149Togl0)
 
 __2019__ \
+`12-07-2019` Applied Inverse Problems Conference, Grenoble, *From radiography to CT: Algebraic methods for CT calibration from a series of projections*
+
+`09-05-2019` Technart conference, Brugge, *CT for Art: A flexible scanning approach for cultural heritage objects* \
 
 `12-04-2019` Stichting Cursussen Wetenschapscorrespondentie symposium, keynote lecture *Overdrijving van Medisch nieuws 
 in de media* \
