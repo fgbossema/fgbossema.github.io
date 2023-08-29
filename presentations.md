@@ -4,11 +4,18 @@ title: Presentations
 ---
 
 __2021__ \
-`09-12-2021` NICAS colloquium presentation, *Tailoring X-ray Imaging Techniques to date the Hugo de Groot chest*
+`09-12-2021` NICAS colloquium presentation, *Tailoring X-ray Imaging Techniques to date the Hugo de Groot chest* \
 [![Presentation NICAS](/images/Bossema_nicas.png)](https://youtu.be/tY1gDk12zCA)
 
-`25-06-2021` Online presentation at the AI&Arts webinar of the Turing Institute, *Tailoring X-ray imaging techniques for dendrochronology of large wooden objects* 
+`02-09-2021` *Wood for Goods and Impact4Art: Advancing CT for non-invasive dendrochronology* \
+Presentation with Marta Domínguez-Delmás at Ghent University, department of dendrochronology. Title: 
+
+`25-06-2021` *Tailoring X-ray imaging techniques for dendrochronology of large wooden objects*  \
+Online presentation at the AI&Arts webinar of the Turing Institute, Cambridge
 [![Presentation AI&Arts](/images/Bossema_25_06_2021.png)](https://www.youtube.com/watch?v=vBB149Togl0)
+
+`27-04-2021` [*Science communication in an interdisciplinary research project: the interplay between scientists, art historians, conservators and the general public*](https://conference.pcst.co/program/abstract/1121 ) \
+PCST 2020+1 Aberdeen virtual conference
 
 
 __2020__ \
