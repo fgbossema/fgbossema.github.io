@@ -5,7 +5,7 @@ title: Presentations
 
 `2021`
 __NICAS colloquium presentation__ \
-'Tailoring X-ray Imaging Techniques to date the Hugo de Groot chest' \
+'Tailoring X-ray Imaging Techniques to date the Hugo de Groot chest' 
 9th of December 2021 \
 [![Presentation NICAS](/images/Bossema_nicas.png)](https://youtu.be/tY1gDk12zCA)
 
@@ -16,11 +16,11 @@ __AI&Arts webinar of the Turing Institute__ \
 [![Presentation AI&Arts](/images/Bossema_25_06_2021.png)](https://www.youtube.com/watch?v=vBB149Togl0)
 
 __2020__ \
-`25-11-2020` Presentation at the online introductory visit of new NWO-I directors Miriam Luizink and Jan van der Boon, *Computational Imaging: Het FleX-ray Lab en project highlights* \
+`25-11-2020` Presentation at the online introductory visit of new NWO-I directors Miriam Luizink and Jan van der Boon, *Computational Imaging: Het FleX-ray Lab en project highlights* 
 
-`14-07-2020` SIAM Imaging Sciene Conference, virtual conference originally to have taken place in Toronto, Canada. Invited presentation in minisymposium ‘Cultural heritage imaging science’, *Line trajectory X-ray tomography for dendrochronology of large wooden objects* \
+`14-07-2020` SIAM Imaging Sciene Conference, virtual conference originally to have taken place in Toronto, Canada. Invited presentation in minisymposium ‘Cultural heritage imaging science’, *Line trajectory X-ray tomography for dendrochronology of large wooden objects* 
 
-`12-02-2020` Technical Art History symposium ‘New perpectives and more dimensions’, Amsterdam, *Insight in Wood: 3D CT imaging for dating wooden objects in the Impact4Art project* \ 
+`12-02-2020` Technical Art History symposium ‘New perpectives and more dimensions’, Amsterdam, *Insight in Wood: 3D CT imaging for dating wooden objects in the Impact4Art project* \
 
 __2019__ \
 `12-07-2019` Applied Inverse Problems Conference, Grenoble, *From radiography to CT: Algebraic methods for CT calibration from a series of projections*
@@ -28,7 +28,7 @@ __2019__ \
 `09-05-2019` Technart conference, Brugge, *CT for Art: A flexible scanning approach for cultural heritage objects* 
 
 `12-04-2019` Stichting Cursussen Wetenschapscorrespondentie symposium, keynote lecture *Overdrijving van Medisch nieuws 
-in de media* \
+in de media* 
 
 `11-01-2019` Presentation at the DAMTP seminar of Prof. dr. Carola Sch&#246onlieb in Cambridge 
 
