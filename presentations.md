@@ -3,16 +3,12 @@ layout: resume
 title: Presentations
 ---
 
-`2021`
-__NICAS colloquium presentation__ \
-'Tailoring X-ray Imaging Techniques to date the Hugo de Groot chest' 
-9th of December 2021 \
+__2021__ \
+`09-12-2021` NICAS colloquium presentation, *Tailoring X-ray Imaging Techniques to date the Hugo de Groot chest*
 [![Presentation NICAS](/images/Bossema_nicas.png)](https://youtu.be/tY1gDk12zCA)
 
-__2020__ \
 `25-06-2021` Online presentation at the AI&Arts webinar of the Turing Institute, *Tailoring X-ray imaging techniques for dendrochronology of large wooden objects* 
 [![Presentation AI&Arts](/images/Bossema_25_06_2021.png)](https://www.youtube.com/watch?v=vBB149Togl0)
-
 
 
 __2020__ \
