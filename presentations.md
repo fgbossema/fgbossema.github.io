@@ -2,10 +2,15 @@
 layout: resume
 title: Presentations
 ---
+__2023__ \
+
+`8-05-2023` *Fusing 3D imaging modalities for the internal and external investigation of museum objects* \ 
+Technart Conference Lisbon
+
 
 __2022__ \
 
-`6-12-2022` [NICAS & CWI](https://www.nicas-research.nl/visit-by-minister-dijkgraaf-and-state-secretary-uslu/)
+`6-12-2022` [NICAS & CWI](https://www.nicas-research.nl/visit-by-minister-dijkgraaf-and-state-secretary-uslu/) \
 Presentation as part of the visit to NICAS of Dutch Minister Dijkgraag and Secretary of State Uslu of OCW (Education, Culture, Science)
 
 `30-11-2022` *Uncovering art: investigating the interior of art objects using Computed tomography (CT)* \
