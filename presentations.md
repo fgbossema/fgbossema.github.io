@@ -4,8 +4,7 @@ title: Presentations
 ---
 __2023__ \
 
-`8-05-2023` *Fusing 3D imaging modalities for the internal and external investigation of museum objects*  \\ 
-Technart Conference Lisbon
+`8-05-2023` *Fusing 3D imaging modalities for the internal and external investigation of museum objects* \ Technart Conference Lisbon
 
 
 __2022__ \
