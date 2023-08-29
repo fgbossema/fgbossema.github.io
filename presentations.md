@@ -17,11 +17,10 @@ __AI&Arts webinar of the Turing Institute__ \
 
 __2019__ \
 
-'12-04-2019' Stichting Cursussen Wetenschapscorrespondentie symposium, keynote lecture *Overdrijving van Medisch nieuws 
+`12-04-2019` Stichting Cursussen Wetenschapscorrespondentie symposium, keynote lecture *Overdrijving van Medisch nieuws 
 in de media* \
 
-'11-01-2019' 
-Presentation at the DAMTP seminar of Prof. dr. Carola Sch\"onlieb in Cambridge
+`11-01-2019` Presentation at the DAMTP seminar of Prof. dr. Carola Sch\"onlieb in Cambridge \
 
 __2018__ \
 `16-10-2018` 
