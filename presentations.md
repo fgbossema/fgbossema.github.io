@@ -75,7 +75,7 @@ Technart conference, Brugge
 `12-04-2019` *Overdrijving van Medisch nieuws in de media*  \
 Stichting Cursussen Wetenschapscorrespondentie symposium, keynote lecture \
 
-`11-01-2019` Presentation at the DAMTP seminar of Prof. dr. Carola Sch&#246onlieb in Cambridge 
+`11-01-2019` Presentation at the DAMTP seminar of Prof. dr. Carola-Bibiane Schönlieb in Cambridge 
 
 __2018__ \
 `16-10-2018` *The FleX-ray lab: Looking through objects* \
