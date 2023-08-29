@@ -25,12 +25,12 @@ __2020__ \
 __2019__ \
 `12-07-2019` Applied Inverse Problems Conference, Grenoble, *From radiography to CT: Algebraic methods for CT calibration from a series of projections*
 
-`09-05-2019` Technart conference, Brugge, *CT for Art: A flexible scanning approach for cultural heritage objects* \
+`09-05-2019` Technart conference, Brugge, *CT for Art: A flexible scanning approach for cultural heritage objects* 
 
 `12-04-2019` Stichting Cursussen Wetenschapscorrespondentie symposium, keynote lecture *Overdrijving van Medisch nieuws 
 in de media* \
 
-`11-01-2019` Presentation at the DAMTP seminar of Prof. dr. Carola Sch&#246onlieb in Cambridge \
+`11-01-2019` Presentation at the DAMTP seminar of Prof. dr. Carola Sch&#246onlieb in Cambridge 
 
 __2018__ \
 `16-10-2018` 
