@@ -51,6 +51,9 @@ __NWO Team Science Award__ \
 See the [CWI news item](https://www.cwi.nl/news/2021/nwo-team-science-award-for-cwi-and-research-partners) and [NWO website](https://www.nwo.nl/en/team-science-award).
 
 ## Grants
+`2023` 
+__Talking Maths in Public conference__ \
+Travel grant. 
 
 `2022` 
 __London Mathematical Society__ \
