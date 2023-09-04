@@ -4,6 +4,10 @@ title: Curriculum Vitae
 ---
 ## Currently
 `2023-2024`
+__Rijksmuseum, Amsterdam__ \
+Postdoctoral Migelien Gerritzen Fellow 
+
+`2023-2024`
 __eScience Center__ \
 Fellow 2023-2024, project title: ['Research software in the museum – fusion and visualisation of multiple 3D imaging modalities to investigate the interior and exterior cultural heritage objects'](https://www.esciencecenter.nl/fellows/francien-bossema/)
 
