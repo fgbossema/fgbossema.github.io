@@ -3,13 +3,16 @@ layout: resume
 title: Presentations
 ---
 __2023__ \
+`01-08-2023` *PhD research in the Rijksmuseum* \
+Talking Maths in Public conference, Newcastle, United Kingdom
+
 `08-05-2023` *Fusing 3D imaging modalities for the internal and external investigation of museum objects* \
 Technart Conference Lisbon
 
 
 __2022__ \
 `06-12-2022` [*NICAS & CWI*](https://www.nicas-research.nl/visit-by-minister-dijkgraaf-and-state-secretary-uslu/) \
-Presentation as part of the visit to NICAS of Dutch Minister Dijkgraag and Secretary of State Uslu of OCW (Education, Culture, Science)
+Presentation as part of the visit to NICAS of Dutch Minister Dijkgraaf and Secretary of State Uslu of OCW (Education, Culture, Science)
 
 `30-11-2022` *Uncovering art: investigating the interior of art objects using Computed tomography (CT)* \
 ICON, The Institute of Conservation, United Kingdom, Online Seminar
