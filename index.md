@@ -6,7 +6,7 @@ driveId: 1SX55b2iRyTgk2UkIfqK4COxrHvWcSlZC/preview
 
 Currently, I am Migelien Gerritzen Fellow at the Rijksmuseum. I am also affiliated with the Centrum Wiskunde & Informatica ([CWI](https://www.cwi.nl/)) and [Fellow at the eScience Center](https://www.esciencecenter.nl/fellows/francien-bossema/). My PhD project on *Computed Tomography (CT) scanning for Cultural Heritage Research* is part of the [Impact4Art](https://www.nicas-research.nl/projects/impact4art/) project at Centrum Wiskunde & Informatica ([CWI](https://www.cwi.nl/)) and Rijksmuseum in Amsterdam, The Netherlands. In 2022, I was a guest researcher at the British Museum. Over the last years, I have had the opportunity to work with colleagues at CWI and Rijksmuseum. I enjoy these collaborations and the interdisciplinary character of my research. My work is a combination of technical investigations into tailoring X-ray imaging techniques to the specific requirements of scanning cultural heritage and scanning and investigating case studies with collaborators at the museum. Next to mathematics and computer science I am interested in Science Communication, which I studied during my Masters' Specialisation at Leiden University. 
 
-## Project video NICAS Intact project
+## Project video NICAS Intact project (2022)
 [![Intact](/images/picture_filming.jpg)](https://www.youtube.com/watch?v=TdhAO7CWjtA&feature=youtu.be)
 
 ## 1 minute PhD project video (2020)
