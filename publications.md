@@ -5,6 +5,11 @@ title: Publications
 
 ## Scientific articles
 `2023`
+Domínguez-Delmás, M., P. van Duin, J. Dorscheid, **F.G. Bossema**, K. Joost Batenburg, and R. van Langh.
+2023. Unravelling a 17th-century prison escape: The quest to identify the original Hugo Grotius bookchest. In Working Towards a Sustainable Past. ICOM-CC 20th Triennial Conference Preprints, Valencia, 18–22 September 2023, ed. J. Bridgland.
+Paris: International Council of Museums.
+
+`2023`
 [Maximilian B. Kiss, **Francien G. Bossema**, Paul J. C. van Laar, Suzan Meijer, Felix Lucka, Tristan van Leeuwen & K. Joost Batenburg, "Beam filtration for object-tailored X-ray CT of multi-material cultural heritage objects", Heritage Science 11, 130 (2023)](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-023-00970-z)
 
 
