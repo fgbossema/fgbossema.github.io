@@ -5,7 +5,7 @@ title: Publications
 
 ## Scientific articles
 `2023`
-Domínguez-Delmás, M., P. van Duin, J. Dorscheid, **F.G. Bossema**, K. Joost Batenburg, and R. van Langh.
+M. Domínguez-Delmás, P. van Duin, J. Dorscheid, **F.G. Bossema**, K. Joost Batenburg, and R. van Langh.
 2023. Unravelling a 17th-century prison escape: The quest to identify the original Hugo Grotius bookchest. In Working Towards a Sustainable Past. ICOM-CC 20th Triennial Conference Preprints, Valencia, 18–22 September 2023, ed. J. Bridgland.
 Paris: International Council of Museums.
 
