@@ -5,7 +5,7 @@ title: Publications
 
 ## Scientific articles
 `2023` 
-**F.G. Bossema**, P.J. Van Laar, K. Meechan, D. O’Flynn, J. Dyer, T. Van Leeuwen, S. Meijer, E. Hermens, and K.J. Batenburg. “Inside out: Fusing 3D imaging modalities for the internal and external investigation of multi-material museum objects”. Digital Applications in Archaeology and Cultural Heritage **31** (2023), e00296.
+**F.G. Bossema**, P.J.C. Van Laar, K. Meechan, D. O’Flynn, J. Dyer, T. Van Leeuwen, S. Meijer, E. Hermens, and K.J. Batenburg. “Inside out: Fusing 3D imaging modalities for the internal and external investigation of multi-material museum objects”. Digital Applications in Archaeology and Cultural Heritage **31** (2023), e00296.
 
 `2023`
 M. Domínguez-Delmás, P. van Duin, J. Dorscheid, **F.G. Bossema**, K. Joost Batenburg, and R. van Langh. "Unravelling a 17th-century prison escape: The quest to identify the original Hugo Grotius bookchest", In *Working Towards a Sustainable Past.* ICOM-CC 20th Triennial Conference Preprints, Valencia, 18–22 September 2023, ed. J. Bridgland. Paris: International Council of Museums.
