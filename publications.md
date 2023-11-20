@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ## Scientific articles
-`2023' 
+`2023` 
 **F.G. Bossema**, P.J. Van Laar, K. Meechan, D. O’Flynn, J. Dyer, T. Van Leeuwen, S. Meijer, E. Hermens, and K.J. Batenburg. “Inside out: Fusing 3D imaging modalities for the internal and external investigation of multi-material museum objects”. Digital Applications in Archaeology and Cultural Heritage **31** (2023), e00296.
 
 `2023`
