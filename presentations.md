@@ -4,7 +4,7 @@ title: Presentations
 ---
 __2023__ \
 
-`18-09-2023`*Visualising the exterior and interior of art objects through combining CT scans and surface scans* \
+`18-09-2023`*Visualising the exterior and interior of art objects through combining CT scans and surface scans* (poster) \
 ICOM-CC 20th Triennial Conference, Valencia, Spain
 
 `01-08-2023` *PhD research in the Rijksmuseum* \
