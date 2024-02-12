@@ -2,6 +2,10 @@
 layout: resume
 title: Presentations
 ---
+
+__2024__ \
+`15-02-2024` *Visualising the exterior and interior of art objects through combining CT scans and surface scans*, ICOM-CC recycle lectures, organised by *De Alumnikring Conservering en Restauratie van de UvA en Restauratoren Nederland*, Utrecht (The Netherlands)
+
 __2023__ \
 `18-09-2023`*Visualising the exterior and interior of art objects through combining CT scans and surface scans* (poster) \
 ICOM-CC 20th Triennial Conference, Valencia, Spain
