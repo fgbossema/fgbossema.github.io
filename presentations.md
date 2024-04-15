@@ -4,7 +4,15 @@ title: Presentations
 ---
 
 
+__2023__ \
+`18-09-2023` *Visualising the exterior and interior of art objects through combining CT scans and surface scans* (poster) \
+ICOM-CC 20th Triennial Conference, Valencia, Spain
 
+`01-08-2023` *PhD research in the Rijksmuseum* \
+Talking Maths in Public conference, Newcastle, United Kingdom
+
+`08-05-2023` *Fusing 3D imaging modalities for the internal and external investigation of museum objects* \
+Technart Conference Lisbon
 
 __2022__ \
 `06-12-2022` [*NICAS & CWI*](https://www.nicas-research.nl/visit-by-minister-dijkgraaf-and-state-secretary-uslu/) \
