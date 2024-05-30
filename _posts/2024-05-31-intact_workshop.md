@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Workshop 31 May 2D3D photography
-excerpt: ""
+title: 2D3D photography workshop
+excerpt: "workshop"
 tags: [CWI]
 comments: false
 category: blog
 ---
+
 Welcome to the workshop 'Visualising exterior and interior of objects in 3D'.
 
 Needed downloads for testing the Blender plugin!
