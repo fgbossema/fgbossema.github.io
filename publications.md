@@ -3,6 +3,10 @@ layout: resume
 title: Publications
 ---
 
+## PhD thesis
+`2024`
+[Tailoring X-ray tomography techniques for cultural heritage research](https://scholarlypublications.universiteitleiden.nl/handle/1887/3754491)
+
 ## Scientific articles
 `2024`
 [**Bossema, F.G.**, Palenstijn, W.J., Heginbotham, A., Corona, M., Van Leeuwen, T., Van Liere, R., Dorscheid, J., O'Flynn, D., Dyer, J., Hermens, E., Batenburg, K.J. Enabling 3D CT-scanning of cultural heritage objects using only in-house 2D X-ray equipment in museums. Nature Communications **15**, 3939 (2024)](https://www.nature.com/articles/s41467-024-48102-w)
