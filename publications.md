@@ -4,6 +4,9 @@ title: Publications
 ---
 
 ## Scientific articles
+`2024`
+[**Bossema, F.G.**, Palenstijn, W.J., Heginbotham, A., Corona, M., Van Leeuwen, T., Van Liere, R., Dorscheid, J., O'Flynn, D., Dyer, J., Hermens, E., Batenburg, K.J. Enabling 3D CT-scanning of cultural heritage objects using only in-house 2D X-ray equipment in museums. Nature Communications **15**, 3939 (2024)](https://www.nature.com/articles/s41467-024-48102-w)
+
 `2023` 
 [**F.G. Bossema**, P.J.C. Van Laar, K. Meechan, D. O’Flynn, J. Dyer, T. Van Leeuwen, S. Meijer, E. Hermens, and K.J. Batenburg. “Inside out: Fusing 3D imaging modalities for the internal and external investigation of multi-material museum objects”. Digital Applications in Archaeology and Cultural Heritage **31** (2023), e00296](https://www.sciencedirect.com/science/article/pii/S2212054823000413)
 
