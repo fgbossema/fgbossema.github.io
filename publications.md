@@ -49,8 +49,34 @@ M. Domínguez-Delmás, P. van Duin, J. Dorscheid, **F.G. Bossema**, K. Joost Bat
 `2018`
 [**F. Bossema**, J. Retrê, S. Pereira, P. Russo, "Your night out under the stars: Reaching beyond native audiences", CAP journal (2018)](https://www.capjournal.org/issues/24/24_40.php).
 
+## Code
+`2023`
+[Code for 3D tomography using only basic X-ray equipment and metal markers](https://zenodo.org/records/8379920)
+
+`2023`
+[IntACT plugin for Blender](https://zenodo.org/records/8041844)
+
 
 ## Datasets
+
+`2023` 
+[Radiographic data of 'Python killing a Gnu' by Antoine-Louis Barye, The J. Paul Getty Museum collection](https://zenodo.org/records/8379913)
+
+`2023` 
+[Radiographic data of a wooden block with metal markers at the Rijksmuseum X-ray facility](https://zenodo.org/records/8379870)
+
+`2023` 
+[Radiographic data of a wooden block with metal markers at the J. Paul Getty Museum X-ray facility](https://zenodo.org/records/8379880)
+
+`2023` 
+[Radiographic data of a wooden block with metal markers at the British Museum X-ray facility](https://zenodo.org/records/8379910)
+
+`2023` 
+[Radiographic data of a wooden block with metal markers at the FleX-ray laboratory (high resolution)](https://zenodo.org/records/10557034)
+
+`2023` 
+[CT reconstruction and structured light scan of a small wooden block](https://zenodo.org/records/8041816)
+
 `2021`
 A line trajectory X-ray tomography dataset of the [Hugo de Groot bookchest](https://www.rijksmuseum.nl/en/collection/NG-KOG-1208), see [Zenodo](https://doi.org/10.5281/zenodo.4533923).
 
