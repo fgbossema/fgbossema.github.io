@@ -2,6 +2,12 @@
 layout: resume
 title: Media and Outreach
 ---
+`2024`
+[Press release, 'Rijksmuseum fellow maakt van rontgenapparaat een CT scanner'](https://www.rijksmuseum.nl/nl/pers/persberichten/rijksmuseum-fellow-maakt-van-rontgenapparaat-een-ct-scanner)
+
+`2024`
+[Press release, 'The do-it-yourself CT scanner'](https://www.cwi.nl/en/news/the-do-it-yourself-ct-scanner/)
+
 `2022`
 [Project video IntACT, with Suzan Meijer and Paul van Laar, made by Trenchcoat film.](https://www.youtube.com/watch?v=TdhAO7CWjtA)
 
