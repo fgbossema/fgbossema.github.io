@@ -3,6 +3,9 @@ layout: resume
 title: Media and Outreach
 ---
 `2024`
+[Getty Announces 2024/2025 Scholars](https://www.getty.edu/news/getty-announces-2024-2025-scholars/)
+
+`2024`
 [Fellow Feature eScience Center](https://www.esciencecenter.nl/news/fellow-feature-francien-bossema/)
 
 `2024` 
