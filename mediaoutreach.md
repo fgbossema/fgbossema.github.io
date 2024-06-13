@@ -2,6 +2,9 @@
 layout: resume
 title: Media and Outreach
 ---
+`2024`
+[Fellow Feature eScience Center](https://www.esciencecenter.nl/news/fellow-feature-francien-bossema/)
+
 `2024` 
 [A peek inside art objects: new algorithm makes CT scan more accessible, Leiden University website](https://www.universiteitleiden.nl/en/news/2024/06/a-peek-inside-art-objects-new-algorithm-makes-ct-scan-more-accessible)
 
