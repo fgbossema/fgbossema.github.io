@@ -4,6 +4,12 @@ title: Presentations
 ---
 
 __2024__ \
+`04-06-2024` *Fusing 3D imaging modalities for the internal and external investigation of multi-material museum objects*, InArt conference, Oslo, Norway
+
+`31-05-2024` Workshop *Visualising the exterior and interior of art objects in 3D*, 2+3D Photography conference, Amsterdam, The Netherlands
+
+`23-05-2024` Layman's talk *Tailoring X-ray tomography techniques for cultural heritage research*. Talk (in Dutch) for a general audience of family, friends and colleagues, prior to PhD defense. Hosted by Museum De Lakenhal, Leiden, The Netherlands 
+
 `15-02-2024` *Visualising the exterior and interior of art objects through combining CT scans and surface scans*, ICOM-CC recycle lectures, organised by *De Alumnikring Conservering en Restauratie van de UvA en Restauratoren Nederland*, Utrecht (The Netherlands)
 
 __2023__ \
