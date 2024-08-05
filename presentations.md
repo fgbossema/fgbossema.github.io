@@ -3,7 +3,7 @@ layout: resume
 title: Presentations
 ---
 
-__2024__ \
+__2024__ 
 
 `27-06-2024` *Unravelling Art: Using X-ray CT Scans to Look Inside Art Objects*, [SAILS symposium 'Heritage; from physical to digital', Leiden, The Netherlands](https://www.universiteitleiden.nl/en/events/2023/06/sails-symposium-digital-heritage)
 
