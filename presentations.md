@@ -5,7 +5,7 @@ title: Presentations
 
 __2024__ \
 
-`27-06-2024` *Unravelling Art: Using X-ray CT Scans to Look Inside Art Objects', [SAILS symposium 'Heritage; from physical to digital', Leiden, The Netherlands](https://www.universiteitleiden.nl/en/events/2023/06/sails-symposium-digital-heritage)
+`27-06-2024` *Unravelling Art: Using X-ray CT Scans to Look Inside Art Objects*, [SAILS symposium 'Heritage; from physical to digital', Leiden, The Netherlands](https://www.universiteitleiden.nl/en/events/2023/06/sails-symposium-digital-heritage)
 
 `04-06-2024` *Fusing 3D imaging modalities for the internal and external investigation of multi-material museum objects*, InArt conference, Oslo, Norway
 
