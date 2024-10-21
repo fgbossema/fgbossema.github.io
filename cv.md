@@ -16,6 +16,10 @@ __Centrum Wiskunde & Informatica, Amsterdam__ \
 PhD student on the Impact4Art project, in collaboration with Rijksmuseum Amsterdam
 
 ## Work experience
+`2024`
+__J. Paul Getty Museum, Los Angeles__ \
+Museum Guest Scholar
+
 `2022`
 __British Museum, London__ \
 PhD research placement
