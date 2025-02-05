@@ -4,6 +4,10 @@ title: Presentations
 ---
 
 __2024__ 
+`30-10-2024`*Unravelling art objects using X-ray CT* (invited keynote presentation), Science and Art X Science and technology applied to Heritage conservation, Madrid 29-31st of October 2024
+
+`10-10-2024` *Using in-house 2D X-ray equipment to make 3D CT scans of cultural heritage objects in museums*, [Nicas colloquium](https://www.youtube.com/watch?v=m6Z-VEk_sG8)
+
 
 `27-06-2024` *Unravelling Art: Using X-ray CT Scans to Look Inside Art Objects*, [SAILS symposium 'Heritage; from physical to digital', Leiden, The Netherlands](https://www.universiteitleiden.nl/en/events/2023/06/sails-symposium-digital-heritage)
 
